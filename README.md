@@ -6,7 +6,7 @@
 
 ## 🚀 About Me  
 - 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science** at **Loknete Shamrao Peje Government College of Engineering**  
-- 📜 Completed **Diploma in Engineering with 86.63%**  
+- 📜 Completed **Diploma in Computer Engineering**  
 - 💼 Experience through internships in **Frontend Development, Web Design, and AI-based applications**  
 - 💡 I love **combining creativity with technology** to build impactful solutions  
 
