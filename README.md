@@ -8,7 +8,6 @@
 - 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science** at **Loknete Shamrao Peje Government College of Engineering**  
 - 📜 Completed **Diploma in Engineering with 86.63%**  
 - 💼 Experience through internships in **Frontend Development, Web Design, and AI-based applications**  
-- 🌱 Currently learning **Generative AI & GANs**  
 - 💡 I love **combining creativity with technology** to build impactful solutions  
 
 ---
@@ -16,9 +15,9 @@
 ## 💻 Projects  
 
 ### 🤖 AI Projects  
-- 🧑‍🤝‍🧑 Face Recognition Attendance System  
-- 🔮 LSTM-based Next-Word Prediction Model  
-- 🥘 Recipe Generator Web App (**GPT API**)  
+- 🧑‍🤝‍🧑 **Face Recognition Attendance System** 
+- 🔮 **LSTM-based Next-Word Prediction Model**  
+- 🥘 **Recipe Generator Web App (**GPT API**)**  
 - 🎨 Image Generator Web App (**DALL·E**)  
 - 🤖 Telegram Bot (**GPT API**)  
 - 🎬 **VidSnap AI Real Generator** – generates narrated videos from images + prompts  
