@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Azra Patvi</h1>
-<h3 align="center">B.Tech in AI & Data Science | AI Enthusiast | Web Developer | Problem Solver</h3>
+<h3 align="center">B.Tech in AI & Data Science | AI Enthusiast | Web Developer | Data Analyst</h3>
 
 ---
 
