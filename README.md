@@ -36,25 +36,13 @@
 ## 🛠️ Tech Stack  
 
 **Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=databricks&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=databricks&logoColor=white)  
 
 **Web Development:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)  
 
 **Databases & Tools:**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
-![UI/UX](https://img.shields.io/badge/UI%2FUX-FF69B4?style=flat&logo=adobecreativecloud&logoColor=white)  
-![Video Editing](https://img.shields.io/badge/Video%20Editing-FF0000?style=flat&logo=adobe-premiere-pro&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  ![UI/UX](https://img.shields.io/badge/UI%2FUX-FF69B4?style=flat&logo=adobecreativecloud&logoColor=white)  ![Video Editing](https://img.shields.io/badge/Video%20Editing-FF0000?style=flat&logo=adobe-premiere-pro&logoColor=white)  
 
 ---
 
