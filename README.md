@@ -59,11 +59,6 @@
 
 ---
 
-## 🎯 My Goal  
-I aim to **create innovative solutions** that merge **AI, web technologies, and creativity** to make a **positive impact** in the real world.  
-
----
-
 ## 📫 Connect with Me  
 <p align="left">
   <a href="mailto:azrapatvi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
