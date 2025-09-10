@@ -29,7 +29,12 @@
 - 🏥 Hospital Management System  
 - ☕ Café & Blizz System  
 - 🛒 E-commerce Website  
-- ✅ To-Do List App  
+- ✅ To-Do List App
+
+### 📊 Data Science & Analysis Projects  
+- 🪔 Diwali Sales Data Analysis – Analyzed customer behavior and sales trends during Diwali festival using Python, Pandas & visualizations  
+- 📈 Stock Forecasting Dashboard – Built interactive Streamlit app for stock price analysis and forecasting (ARIMA, LSTM, Prophet models)  
+
 
 ---
 
