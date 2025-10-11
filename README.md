@@ -33,7 +33,8 @@
 
 ### 📊 Data Science & Analysis Projects  
 - 🪔 Diwali Sales Data Analysis – Analyzed customer behavior and sales trends during Diwali festival using Python, Pandas & visualizations  
-- 📈 Stock Forecasting Dashboard – Built interactive Streamlit app for stock price analysis and forecasting (ARIMA, LSTM, Prophet models)  
+- 📈 Stock Forecasting Dashboard – Built interactive Streamlit app for stock price analysis and forecasting (ARIMA, LSTM, Prophet models)
+- 🐦 Twitter Analytics Project – Transformed raw Twitter data into structured insights using Python preprocessing and Power BI visualization
 
 
 ---
