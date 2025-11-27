@@ -15,6 +15,7 @@
 ## 💻 Projects  
 
 ### 🤖 AI Projects  
+- 🪪 **AI-Based Virtual Interviewer (FastAPI Project)**
 - 🧑‍🤝‍🧑 **Face Recognition Attendance System** 
 - 🔮 **LSTM-based Next-Word Prediction Model**  
 - 🥘 **Recipe Generator Web App (**GPT API**)**  
@@ -23,7 +24,8 @@
 - 🎬 **VidSnap AI Real Generator** – generates narrated videos from images + prompts  
 
 ### 🌐 Web Development Projects  
-- 🌍 Websites for **Shah Industries** & an **AC Technician** (Flask, Python)  
+- 🌍 Website for **Shah Industries**
+- 🌍 Website for an **AC Technician** (Flask, Python)
 - 📒 **Khata Plus App** – tracks unpaid amounts for my father
 - 💰 Expense Tracker (Flask, Python)  
 - 🏥 Hospital Management System  
@@ -32,10 +34,14 @@
 - ✅ To-Do List App
 
 ### 📊 Data Science & Analysis Projects  
+- 🚘 Uber Analytics Dashboard – Built an interactive dashboard with sliding filter panel, 3D vehicle selector, revenue trends, and customer behavior insights.
+- 🛒 Blinkit Sales Dashboard – Identified top/bottom item types, outlet performance, and sales patterns with interactive filters.
+- 🐦 Twitter Analytics Project – Transformed raw Twitter data into structured insights using Python preprocessing and Power BI visualization
+- 📦 Amazon Sales Dashboard – Analyzed orders, cancellations, category performance, and payment method trends using advanced visuals.
+- 🟣 Insurance Policy Analysis Dashboard – Analyzed policy status, premium types, claim distribution, and age-wise coverage insights.
+- 🟢 UPI Transaction Dashboard – Visualized UPI payment trends with KPIs, success rate analysis, bank-wise performance, and customer demographics.
 - 🪔 Diwali Sales Data Analysis – Analyzed customer behavior and sales trends during Diwali festival using Python, Pandas & visualizations  
 - 📈 Stock Forecasting Dashboard – Built interactive Streamlit app for stock price analysis and forecasting (ARIMA, LSTM, Prophet models)
-- 🐦 Twitter Analytics Project – Transformed raw Twitter data into structured insights using Python preprocessing and Power BI visualization
-
 
 ---
 
