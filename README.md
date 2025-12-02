@@ -113,11 +113,11 @@
 
 ## 📊 GitHub Stats  
 
+## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=azrapatvi&show_icons=true&theme=tokyonight" width="49%">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azrapatvi&theme=tokyonight" width="49%">
+  <img src="https://raw.githubusercontent.com/azrapatvi/azrapatvi/output/github-contribution-grid-snake.svg" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azrapatvi&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
