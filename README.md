@@ -114,9 +114,9 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=azrapatvi&show_icons=true&theme=tokyonight" width="49%">
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=azrapatvi&show_icons=true&theme=tokyonight" width="48%" alt="Azra's GitHub Stats">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azrapatvi&theme=tokyonight" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=azrapatvi&theme=tokyonight" width="48%" alt="GitHub Streak">
 </p>
 
 <p align="center">
