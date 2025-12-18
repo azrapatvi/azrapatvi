@@ -43,7 +43,8 @@
 - ✅ To-Do List App
 
 ### 📊 Data Science & Analysis Projects  
-- 🚘 Uber Analytics Dashboard – Built an interactive dashboard with sliding filter panel, 3D vehicle selector, revenue trends, and customer behavior insights.
+- 💬 WhatsApp Chat Analyzer – Streamlit-based app to analyze WhatsApp chats with message statistics, emoji analysis, timelines, wordclouds, and activity heatmaps.
+-  🚘 Uber Analytics Dashboard – Built an interactive dashboard with sliding filter panel, 3D vehicle selector, revenue trends, and customer behavior insights.
 - 🛒 Blinkit Sales Dashboard – Identified top/bottom item types, outlet performance, and sales patterns with interactive filters.
 - 🐦 Twitter Analytics Project – Transformed raw Twitter data into structured insights using Python preprocessing and Power BI visualization
 - 📦 Amazon Sales Dashboard – Analyzed orders, cancellations, category performance, and payment method trends using advanced visuals.
