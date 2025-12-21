@@ -44,14 +44,15 @@
 
 ### 📊 Data Science & Analysis Projects  
 - 💬 WhatsApp Chat Analyzer – Streamlit-based app to analyze WhatsApp chats with message statistics, emoji analysis, timelines, wordclouds, and activity heatmaps.
--  🚘 Uber Analytics Dashboard – Built an interactive dashboard with sliding filter panel, 3D vehicle selector, revenue trends, and customer behavior insights.
+- 📈 Stock Forecasting Dashboard – Built interactive Streamlit app for stock price analysis and forecasting (ARIMA, LSTM, Prophet models)
+- 🚘 Uber Analytics Dashboard – Built an interactive dashboard with sliding filter panel, 3D vehicle selector, revenue trends, and customer behavior insights.
 - 🛒 Blinkit Sales Dashboard – Identified top/bottom item types, outlet performance, and sales patterns with interactive filters.
 - 🐦 Twitter Analytics Project – Transformed raw Twitter data into structured insights using Python preprocessing and Power BI visualization
 - 📦 Amazon Sales Dashboard – Analyzed orders, cancellations, category performance, and payment method trends using advanced visuals.
 - 🟣 Insurance Policy Analysis Dashboard – Analyzed policy status, premium types, claim distribution, and age-wise coverage insights.
 - 🟢 UPI Transaction Dashboard – Visualized UPI payment trends with KPIs, success rate analysis, bank-wise performance, and customer demographics.
 - 🪔 Diwali Sales Data Analysis – Analyzed customer behavior and sales trends during Diwali festival using Python, Pandas & visualizations  
-- 📈 Stock Forecasting Dashboard – Built interactive Streamlit app for stock price analysis and forecasting (ARIMA, LSTM, Prophet models)
+
 
 ---
 
