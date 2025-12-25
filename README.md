@@ -27,7 +27,8 @@
 - 🪪 **AI-Based Virtual Interviewer (FastAPI Project)**
 - 🧑‍🤝‍🧑 **Face Recognition Attendance System** 
 - 🔮 **LSTM-based Next-Word Prediction Model**  
-- 🥘 **Recipe Generator Web App (**GPT API**)**  
+- 🥘 **Recipe Generator Web App (**GPT API**)**
+- 🤖 **Gemini Streamlit Chatbot**  
 - 🎨 Image Generator Web App (**DALL·E**)  
 - 🤖 Telegram Bot (**GPT API**)  
 - 🎬 **VidSnap AI Real Generator** – generates narrated videos from images + prompts  
@@ -44,7 +45,9 @@
 
 ### 📊 Data Science & Analysis Projects  
 - 💬 WhatsApp Chat Analyzer – Streamlit-based app to analyze WhatsApp chats with message statistics, emoji analysis, timelines, wordclouds, and activity heatmaps.
+- 📊 **Chat With Your Data (AI + EDA Tool)** : AI-powered Streamlit application for dataset understanding and cleaning which Enables natural language interaction with datasets using Gemini API it also Performs Exploratory Data Analysis (EDA) with visual insights and Helps beginners understand data without prior domain knowledge
 - 📈 Stock Forecasting Dashboard – Built interactive Streamlit app for stock price analysis and forecasting (ARIMA, LSTM, Prophet models)
+- 🏥 Hospital Management Dashboard – Power BI:Built an Interactive hospital analytics dashboard built using Microsoft Power BI which Tracks patient admissions, waiting time, satisfaction score, and referrals it also Includes monthly, consolidated, and patient-level detailed views and has Features slicers, KPIs, trend analysis, and demographic insights
 - 🚘 Uber Analytics Dashboard – Built an interactive dashboard with sliding filter panel, 3D vehicle selector, revenue trends, and customer behavior insights.
 - 🛒 Blinkit Sales Dashboard – Identified top/bottom item types, outlet performance, and sales patterns with interactive filters.
 - 🐦 Twitter Analytics Project – Transformed raw Twitter data into structured insights using Python preprocessing and Power BI visualization
