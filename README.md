@@ -44,17 +44,19 @@
 - ✅ To-Do List App
 
 ### 📊 Data Science & Analysis Projects  
-- 💬 WhatsApp Chat Analyzer – Streamlit-based app to analyze WhatsApp chats with message statistics, emoji analysis, timelines, wordclouds, and activity heatmaps.
-- 📊 **Chat With Your Data (AI + EDA Tool)** : AI-powered Streamlit application for dataset understanding and cleaning which Enables natural language interaction with datasets using Gemini API it also Performs Exploratory Data Analysis (EDA) with visual insights and Helps beginners understand data without prior domain knowledge
-- 📈 Stock Forecasting Dashboard – Built interactive Streamlit app for stock price analysis and forecasting (ARIMA, LSTM, Prophet models)
-- 🏥 Hospital Management Dashboard – Power BI:Built an Interactive hospital analytics dashboard built using Microsoft Power BI which Tracks patient admissions, waiting time, satisfaction score, and referrals it also Includes monthly, consolidated, and patient-level detailed views and has Features slicers, KPIs, trend analysis, and demographic insights
-- 🚘 Uber Analytics Dashboard – Built an interactive dashboard with sliding filter panel, 3D vehicle selector, revenue trends, and customer behavior insights.
-- 🛒 Blinkit Sales Dashboard – Identified top/bottom item types, outlet performance, and sales patterns with interactive filters.
-- 🐦 Twitter Analytics Project – Transformed raw Twitter data into structured insights using Python preprocessing and Power BI visualization
-- 📦 Amazon Sales Dashboard – Analyzed orders, cancellations, category performance, and payment method trends using advanced visuals.
-- 🟣 Insurance Policy Analysis Dashboard – Analyzed policy status, premium types, claim distribution, and age-wise coverage insights.
-- 🟢 UPI Transaction Dashboard – Visualized UPI payment trends with KPIs, success rate analysis, bank-wise performance, and customer demographics.
-- 🪔 Diwali Sales Data Analysis – Analyzed customer behavior and sales trends during Diwali festival using Python, Pandas & visualizations  
+
+- 💬 **WhatsApp Chat Analyzer (Streamlit App)** – Analyzes WhatsApp chats with message statistics, emoji analysis, timelines, wordclouds, and activity heatmaps.
+- 📊 **Chat With Your Data – AI + EDA Tool (Streamlit App + Python)** – AI-powered dataset exploration tool using Gemini API. Enables natural-language queries, performs automated EDA with visual insights, and helps beginners understand data easily.
+- 📈 **Stock Forecasting Dashboard (Streamlit App + Machine Learning)** – Interactive stock price analysis and forecasting using ARIMA, LSTM, and Prophet models.
+- 🏥 **Hospital Management Dashboard (Power BI Dashboard)** – Interactive hospital analytics dashboard tracking admissions, waiting time, satisfaction scores, referrals, and demographics with KPIs, slicers, and trend analysis.
+- 🚘 **Uber Analytics Dashboard (Power BI Dashboard)** – Interactive dashboard with sliding filters, revenue trends, demand insights, and customer behavior analysis.
+- 🛒 **Blinkit Sales Dashboard (Power BI Dashboard + Google Colab Notebook .ipynb)** – Outlet-wise performance, item-type comparison, sales trends, and actionable insights using filters and KPIs.
+- 🐦 **Twitter Analytics Project (Python + Power BI Dashboard)** – Raw Twitter data preprocessing in Python with visualization and insights in Power BI.
+- 📦 **Amazon Sales Dashboard (Power BI Dashboard)** – Order trends, cancellations, category performance, and payment method insights using advanced visuals.
+- 🟣 **Insurance Policy Analysis Dashboard (Power BI Dashboard)** – Policy status trends, premium types, claim distribution, and age-wise coverage insights.
+- 🟢 **UPI Transaction Dashboard (Power BI Dashboard)** – UPI payment trends, bank-wise performance, success-rate analytics, and customer demographics.
+- 🪔 **Diwali Sales Data Analysis (Google Colab Notebook .ipynb)** – Customer segmentation, purchase behavior, and festival-season sales insights using Python & Pandas.
+
 
 
 ---
