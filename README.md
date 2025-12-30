@@ -44,8 +44,17 @@
 - ✅ To-Do List App
 
 ### 📊 Data Science & Analysis Projects  
+- 🍕 **Pizza Sales Analysis (SQL + Python EDA + Power BI Dashboard)**  
+  - End-to-end analysis using **MySQL**, **Google Colab**, and **Power BI**  
+  - Revenue trends, customer ordering behavior, size & category performance  
+  - Top & bottom pizza performance with interactive dashboards  
 
-- 💬 **WhatsApp Chat Analyzer (Streamlit App)** – Analyzes WhatsApp chats with message statistics, emoji analysis, timelines, wordclouds, and activity heatmaps.
+- 🎓 **Student Performance Analysis (Python EDA)**  
+  - Analysis of Math, Reading & Writing scores  
+  - Impact of gender, parental education, test preparation & lifestyle factors  
+  - Visual insights using Python, Pandas, Matplotlib & Seaborn
+
+-  💬 **WhatsApp Chat Analyzer (Streamlit App)** – Analyzes WhatsApp chats with message statistics, emoji analysis, timelines, wordclouds, and activity heatmaps.
 - 📊 **Chat With Your Data – AI + EDA Tool (Streamlit App + Python)** – AI-powered dataset exploration tool using Gemini API. Enables natural-language queries, performs automated EDA with visual insights, and helps beginners understand data easily.
 - 📈 **Stock Forecasting Dashboard (Streamlit App + Machine Learning)** – Interactive stock price analysis and forecasting using ARIMA, LSTM, and Prophet models.
 - 🏥 **Hospital Management Dashboard (Power BI Dashboard)** – Interactive hospital analytics dashboard tracking admissions, waiting time, satisfaction scores, referrals, and demographics with KPIs, slicers, and trend analysis.
@@ -56,7 +65,6 @@
 - 🟣 **Insurance Policy Analysis Dashboard (Power BI Dashboard)** – Policy status trends, premium types, claim distribution, and age-wise coverage insights.
 - 🟢 **UPI Transaction Dashboard (Power BI Dashboard)** – UPI payment trends, bank-wise performance, success-rate analytics, and customer demographics.
 - 🪔 **Diwali Sales Data Analysis (Google Colab Notebook .ipynb)** – Customer segmentation, purchase behavior, and festival-season sales insights using Python & Pandas.
-
 
 
 ---
