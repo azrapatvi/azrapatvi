@@ -44,19 +44,37 @@
 - ✅ To-Do List App
 
 ### 📊 Data Science & Analysis Projects  
+-  💬 **WhatsApp Chat Analyzer (Streamlit App)** – Analyzes WhatsApp chats with message statistics, emoji analysis, timelines, wordclouds, and activity heatmaps.
+- 📊 **Chat With Your Data – AI + EDA Tool (Streamlit App + Python)** – AI-powered dataset exploration tool using Gemini API. Enables natural-language queries, performs automated EDA with visual insights, and helps beginners understand data easily.
+- 📈 **Stock Forecasting Dashboard (Streamlit App + Machine Learning)** – Interactive stock price analysis and forecasting using ARIMA, LSTM, and Prophet models.
 - 🍕 **Pizza Sales Analysis (SQL + Python EDA + Power BI Dashboard)**  
   - End-to-end analysis using **MySQL**, **Google Colab**, and **Power BI**  
   - Revenue trends, customer ordering behavior, size & category performance  
   - Top & bottom pizza performance with interactive dashboards  
 
-- 🎓 **Student Performance Analysis (Python EDA)**  
+- 🎓 **Student Performance Analysis (Python EDA)**
   - Analysis of Math, Reading & Writing scores  
   - Impact of gender, parental education, test preparation & lifestyle factors  
   - Visual insights using Python, Pandas, Matplotlib & Seaborn
-
--  💬 **WhatsApp Chat Analyzer (Streamlit App)** – Analyzes WhatsApp chats with message statistics, emoji analysis, timelines, wordclouds, and activity heatmaps.
-- 📊 **Chat With Your Data – AI + EDA Tool (Streamlit App + Python)** – AI-powered dataset exploration tool using Gemini API. Enables natural-language queries, performs automated EDA with visual insights, and helps beginners understand data easily.
-- 📈 **Stock Forecasting Dashboard (Streamlit App + Machine Learning)** – Interactive stock price analysis and forecasting using ARIMA, LSTM, and Prophet models.
+ 
+- - 💳 **Credit Card Customer & Transaction Analysis (MySQL + Power BI)**  
+  - End-to-end **Business Intelligence project with refresh validation**  
+  - MySQL used as backend database (`ccdb`)  
+  - Customer demographics & credit card transaction analysis  
+  - Revenue analysis by:
+    - Card Category
+    - Education Level
+    - Customer Job
+    - Expense Type
+    - Gender  
+  - Weekly, Quarterly & Annual revenue trends  
+  - KPIs:
+    - Total Revenue
+    - Total Transactions
+    - Total Interest Earned
+    - Average Customer Age  
+  - Incremental data added to validate **Power BI refresh functionality**  
+  - 📄 **Dashboard preview available in `credit_card_report.pdf`**
 - 🏥 **Hospital Management Dashboard (Power BI Dashboard)** – Interactive hospital analytics dashboard tracking admissions, waiting time, satisfaction scores, referrals, and demographics with KPIs, slicers, and trend analysis.
 - 🚘 **Uber Analytics Dashboard (Power BI Dashboard)** – Interactive dashboard with sliding filters, revenue trends, demand insights, and customer behavior analysis.
 - 🛒 **Blinkit Sales Dashboard (Power BI Dashboard + Google Colab Notebook .ipynb)** – Outlet-wise performance, item-type comparison, sales trends, and actionable insights using filters and KPIs.
