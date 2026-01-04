@@ -56,8 +56,26 @@
   - Analysis of Math, Reading & Writing scores  
   - Impact of gender, parental education, test preparation & lifestyle factors  
   - Visual insights using Python, Pandas, Matplotlib & Seaborn
+- 🛒 **Walmart Sales Analysis (SQL + Python Validation)**  
+  - SQL-focused end-to-end data analysis project  
+  - Dataset sourced from Kaggle and initially explored using Python (Google Colab)  
+  - MySQL used for:
+    - Database creation & data cleaning  
+    - Feature engineering (date, time, profit, shift classification)  
+    - Business-driven analytical queries  
+  - Key insights include:
+    - Branch-wise & city-wise sales performance  
+    - Busiest day identification per branch using window functions  
+    - Payment method & product line analysis  
+    - Time-based sales categorization (Morning / Afternoon / Evening)  
+  - SQL concepts used:
+    - CTEs
+    - Window Functions (RANK, DENSE_RANK)
+    - Date & Time functions
+    - Aggregations & conditional logic
+
  
-- - 💳 **Credit Card Customer & Transaction Analysis (MySQL + Power BI)**  
+- 💳 **Credit Card Customer & Transaction Analysis (MySQL + Power BI)**  
   - End-to-end **Business Intelligence project with refresh validation**  
   - MySQL used as backend database (`ccdb`)  
   - Customer demographics & credit card transaction analysis  
