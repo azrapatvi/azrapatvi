@@ -54,6 +54,19 @@ B.Tech in AI & Data Science | Data Analyst | Machine Learning Engineer | Full-St
 - 🛒 E-commerce Website  
 - ✅ To-Do List App
 
+---
+
+
+## 🤖 Machine Learning & Prediction Projects
+
+- 📊 **Customer Churn Prediction Web App** – Random Forest–based churn prediction with probability output via a Streamlit interface.  
+- 📈 **Stock Forecasting Dashboard** – Time-series forecasting using ARIMA, LSTM, and Prophet models.  
+- 🔥 **Algerian Forest Fire Prediction** – Fire Weather Index (FWI) prediction using meteorological features with a Flask web app.  
+- 💻 **Laptop Price Prediction App** – Machine learning–based laptop price estimation from hardware specifications.  
+- 🌸 **Iris Flower Classification** – Random Forest model to classify Iris species via a Streamlit application.
+
+---
+
 ## 📊 Data Analysis & EDA Projects
 
 - 📊 **Chat With Your Data (AI-Powered EDA Tool)** – Natural-language dataset exploration with automated visual insights.
@@ -78,19 +91,10 @@ B.Tech in AI & Data Science | Data Analyst | Machine Learning Engineer | Full-St
 
 ---
 
-## 🤖 Machine Learning & Prediction Projects
-
-- 📊 **Customer Churn Prediction Web App** – Random Forest–based churn prediction with probability output via a Streamlit interface.  
-- 📈 **Stock Forecasting Dashboard** – Time-series forecasting using ARIMA, LSTM, and Prophet models.  
-- 🔥 **Algerian Forest Fire Prediction** – Fire Weather Index (FWI) prediction using meteorological features with a Flask web app.  
-- 💻 **Laptop Price Prediction App** – Machine learning–based laptop price estimation from hardware specifications.  
-- 🌸 **Iris Flower Classification** – Random Forest model to classify Iris species via a Streamlit application.
-
----
 
 ## 🛠️ Tech Stack
 
-### **AI & ML (Core Focus)**
+### **AI & ML **
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![DeepFace](https://img.shields.io/badge/DeepFace-FF6F00?style=flat&logo=python&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat&logo=google&logoColor=white)
