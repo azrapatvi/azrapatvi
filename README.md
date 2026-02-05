@@ -86,42 +86,100 @@ B.Tech in AI & Data Science | Data Analyst | Machine Learning Engineer | Full-St
 - 💻 **Laptop Price Prediction App** – Machine learning–based laptop price estimation from hardware specifications.  
 - 🌸 **Iris Flower Classification** – Random Forest model to classify Iris species via a Streamlit application.
 
+---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
-### **Languages:**  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=databricks&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-### **Frameworks & Tools:**   ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![AJAX](https://img.shields.io/badge/AJAX-0064A5?style=flat&logo=json&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-
-### **AI & ML:**   ![DeepFace](https://img.shields.io/badge/DeepFace-FF6F00?style=flat&logo=python&logoColor=white) ![Gemini API](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat&logo=google&logoColor=white) ![GPT API](https://img.shields.io/badge/GPT%20API-412991?style=flat&logo=openai&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-FF4081?style=flat&logo=google&logoColor=white)
-
-### **Databases:**   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-
-### **Data Tools:**   ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4A90E2?style=flat&logo=python&logoColor=white)
-
-### **Cloud (Familiar):**   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-
-### **Others:**   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white) ![ReportLab](https://img.shields.io/badge/ReportLab-000000?style=flat&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+### **AI & ML (Core Focus)**
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![DeepFace](https://img.shields.io/badge/DeepFace-FF6F00?style=flat&logo=python&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat&logo=google&logoColor=white)
+![GPT API](https://img.shields.io/badge/GPT%20API-412991?style=flat&logo=openai&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FF4081?style=flat)
 
 ---
 
-## 📊 GitHub Stats  
+### **Data Tools & Analytics**
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-4A90E2?style=flat)
+
+---
+
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+---
+
+### **Frameworks & Tools**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat)
+![AJAX](https://img.shields.io/badge/AJAX-0064A5?style=flat)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat)
+
+---
+
+### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat)
+
+---
+
+### **Cloud (Familiar)**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat)
+
+---
+
+### **Others**
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat)
+![ReportLab](https://img.shields.io/badge/ReportLab-000000?style=flat)
+
+---
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=azrapatvi&show_icons=true&theme=tokyonight" width="48%" alt="Azra's GitHub Stats">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=azrapatvi&theme=tokyonight" width="48%" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=azrapatvi&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=azrapatvi&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azrapatvi&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azrapatvi&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 📫 Connect with Me  
+## 📫 Connect with Me
+
 <p align="left">
-  <a href="mailto:azrapatvi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/azra-patvi-5ba33a31b/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/azrapatvi"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+  <a href="mailto:azrapatvi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/azra-patvi-5ba33a31b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/azrapatvi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
 </p>
+
