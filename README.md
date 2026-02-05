@@ -1,37 +1,48 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Azra Patvi</h1>
-<h3 align="center">B.Tech in AI & Data Science | AI Enthusiast | Web Developer | Data Analyst</h3>
+<h3 align="center">
+B.Tech in AI & Data Science | Data Analyst | Machine Learning Engineer | Full-Stack Developer
+</h3>
+
 
 ---
 
 ## 🚀 About Me  
 - 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science** at **Loknete Shamrao Peje Government College of Engineering**  
-- 📜 Completed **Diploma in Computer Engineering**  
-- 💼 Experience through internships in **Frontend Development, Web Design, and AI-based applications**  
-- 💡 I love **combining creativity with technology** to build impactful solutions  
+- 📜 Completed **Diploma in Computer Engineering** with strong academic performance  
+- 💼 Hands-on experience through internships in **Frontend Development, Data Analysis, and AI-based applications**  
+- 📊 Strong focus on **data-driven decision making, dashboards, and predictive modeling**  
+- 💡 Passionate about building **scalable, real-world solutions using AI, ML, and Analytics**
 
 ---
 
-
 # 🔥 Featured Project  
-## 🤖 **AI Interviewer – Real-Time AI-Powered Virtual Interview Platform**
+## 🤖 AI Interviewer – Real-Time AI-Powered Virtual Interview Platform  
+
 > Built using **FastAPI, DeepFace, Google Gemini API, MongoDB, ReportLab, and OpenCV**
 
-🔥 *A complete end-to-end AI Interview Platform that verifies faces, asks questions, analyzes answers, and generates reports.*
+🔥 A full-stack AI platform that:
+- Verifies candidate identity using face recognition  
+- Conducts AI-driven interviews in real time  
+- Analyzes answers using LLMs  
+- Generates automated interview reports  
+
+💡 **Business Impact:** Automates the hiring screening process and reduces manual interviewer effort.
 
 ---
 
 ## 💻 Projects  
 
 ### 🤖 AI Projects  
-- 🪪 **AI-Based Virtual Interviewer (FastAPI Project)**
-- 🧑‍🤝‍🧑 **Face Recognition Attendance System** 
-- 🔮 **LSTM-based Next-Word Prediction Model**  
-- 🥘 **Recipe Generator Web App (**GPT API**)**
-- 🤖 **Gemini Streamlit Chatbot**  
-- 🎨 Image Generator Web App (**DALL·E**)  
-- 🤖 Telegram Bot (**GPT API**)  
-- 🎬 **VidSnap AI Real Generator** – generates narrated videos from images + prompts  
+- 🪪 **AI-Based Virtual Interviewer (FastAPI)** – End-to-end AI hiring platform with face verification and automated evaluation  
+- 🧑‍🤝‍🧑 **Face Recognition Attendance System** – Automated attendance using real-time face recognition  
+- 🔮 **LSTM-based Next-Word Prediction Model** – Sequence modeling for language prediction using deep learning  
+- 🥘 **Recipe Generator Web App (GPT API)** – AI-based recipe generation from user ingredients  
+- 🤖 **Gemini Streamlit Chatbot** – Conversational AI chatbot using Google Gemini API  
+- 🎨 **Image Generator Web App (DALL·E)** – Text-to-image generation using generative AI  
+- 🤖 **Telegram Bot (GPT API)** – AI-powered Telegram bot for automated responses  
+- 🎬 **VidSnap AI Real Generator** – Generates narrated videos from images and prompts using AI
+
 
 ### 🌐 Web Development Projects  
 - 🌍 Website for **Shah Industries**
@@ -43,25 +54,38 @@
 - 🛒 E-commerce Website  
 - ✅ To-Do List App
 
-### 📊 Data Science & Analysis Projects  
--  💬 **WhatsApp Chat Analyzer (Streamlit App)** – Analyzes WhatsApp chats with message statistics, emoji analysis, timelines, wordclouds, and activity heatmaps.
-- 📊 **Chat With Your Data – AI + EDA Tool (Streamlit App + Python)** – AI-powered dataset exploration tool using Gemini API. Enables natural-language queries, performs automated EDA with visual insights, and helps beginners understand data easily.
-- 📈 **Stock Forecasting Dashboard (Streamlit App + Machine Learning)** – Interactive stock price analysis and forecasting using ARIMA, LSTM, and Prophet models.
-- 🍕 **Pizza Sales Analysis (SQL + Python + Power BI)**  - Sales trends, customer behavior, category & size performance
-- 🎓 **Student Performance Analysis (Python EDA)**   - Academic performance analysis using Python visualizations
-- 🛒 **Walmart Sales Analysis (SQL Project)**  - Branch-wise, payment method, date & time-based sales analysis
-- 💳 **Credit Card Customer & Transaction Analysis (MySQL + Power BI)**  - Customer demographics, transaction trends & revenue KPIs - 📄 **Dashboard preview available in `credit_card_report.pdf`**
-- 🏥 **Hospital Management Dashboard (Power BI Dashboard)** – Interactive hospital analytics dashboard tracking admissions, waiting time, satisfaction scores, referrals, and demographics with KPIs, slicers, and trend analysis.
-- 🚘 **Uber Analytics Dashboard (Power BI Dashboard)** – Interactive dashboard with sliding filters, revenue trends, demand insights, and customer behavior analysis.
-- 🛒 **Blinkit Sales Dashboard (Power BI Dashboard + Google Colab Notebook .ipynb)** – Outlet-wise performance, item-type comparison, sales trends, and actionable insights using filters and KPIs.
-- 🐦 **Twitter Analytics Project (Python + Power BI Dashboard)** – Raw Twitter data preprocessing in Python with visualization and insights in Power BI.
-- 📦 **Amazon Sales Dashboard (Power BI Dashboard)** – Order trends, cancellations, category performance, and payment method insights using advanced visuals.
-- 🟣 **Insurance Policy Analysis Dashboard (Power BI Dashboard)** – Policy status trends, premium types, claim distribution, and age-wise coverage insights.
-- 🟢 **UPI Transaction Dashboard (Power BI Dashboard)** – UPI payment trends, bank-wise performance, success-rate analytics, and customer demographics.
-- 🪔 **Diwali Sales Data Analysis (Google Colab Notebook .ipynb)** – Customer segmentation, purchase behavior, and festival-season sales insights using Python & Pandas.
+## 📊 Data Analysis & EDA Projects
 
+- 📊 **Chat With Your Data (AI-Powered EDA Tool)** – Natural-language dataset exploration with automated visual insights.
+- 💬 **WhatsApp Chat Analyzer (Streamlit App)** – Message statistics, emoji usage, timelines, word clouds, and activity heatmaps.   
+- 📉 **Customer Churn Analysis (EDA)** – Identified key churn drivers such as tenure, contract type, services, and payment methods to support retention strategies.  
+- 🛒 **Ecommerce Sales Analysis (EDA + Power BI)** – Business-focused sales, profit, discount impact, and regional performance analysis using interactive dashboards.  
+- 🛍️ **Walmart Sales Analysis (Python + SQL)** – End-to-end transaction, rating, time-based, and profitability analysis using advanced SQL queries.  
+- 🍕 **Pizza Sales Analysis (SQL + Python + Power BI)** – Sales trends, customer behavior, and category & size performance insights.  
+- 💳 **Credit Card Customer & Transaction Analysis (MySQL + Power BI)** – Customer demographics, transaction trends, and revenue KPI analysis.  
+- 🏥 **Hospital Management Dashboard (Power BI)** – Admissions, waiting time, satisfaction scores, referrals, and demographic analytics.  
+- 🚘 **Uber Analytics Dashboard (Power BI)** – Revenue trends, demand patterns, and customer behavior insights with interactive filters.  
+- 🛒 **Blinkit Sales Dashboard (Power BI + Python)** – Outlet-wise performance, item-type comparison, and sales trend analysis.  
+- 📦 **Amazon Sales Dashboard (Power BI)** – Order trends, cancellations, category performance, and payment method insights.  
+- 🟢 **UPI Transaction Dashboard (Power BI)** – Bank-wise transaction trends, success rates, and customer usage analysis.  
+- 🟣 **Insurance Policy Analysis Dashboard (Power BI)** – Policy status, premium types, claims distribution, and age-wise coverage insights.  
+- 🐦 **Twitter Analytics Project (Python + Power BI)** – Twitter data preprocessing and visualization for engagement and trend insights.  
+- 🪔 **Diwali Sales Data Analysis (Python EDA)** – Festival-season customer segmentation and purchasing behavior analysis.  
+- 🎓 **Student Performance Analysis (Python EDA)** – Visual exploration of academic performance and influencing factors.   
+- ✈️ **Flight Price Analysis (EDA)** – Analysis of airline, route, stops, and journey date effects on ticket prices.  
+- 📱 **Google Play Store Apps Analysis (EDA)** – App category, rating, install, and pricing trend analysis.  
+- 🍷 **Red Wine Quality Analysis (EDA)** – Physicochemical feature analysis and wine quality relationships.
 
 ---
+
+## 🤖 Machine Learning & Prediction Projects
+
+- 📊 **Customer Churn Prediction Web App** – Random Forest–based churn prediction with probability output via a Streamlit interface.  
+- 📈 **Stock Forecasting Dashboard** – Time-series forecasting using ARIMA, LSTM, and Prophet models.  
+- 🔥 **Algerian Forest Fire Prediction** – Fire Weather Index (FWI) prediction using meteorological features with a Flask web app.  
+- 💻 **Laptop Price Prediction App** – Machine learning–based laptop price estimation from hardware specifications.  
+- 🌸 **Iris Flower Classification** – Random Forest model to classify Iris species via a Streamlit application.
+
 
 ## 🛠️ Tech Stack  
 
