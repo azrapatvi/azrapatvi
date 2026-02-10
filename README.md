@@ -45,6 +45,7 @@ B.Tech in AI & Data Science | Data Analyst | Machine Learning Engineer | Full-St
 
 
 ### 🌐 Web Development Projects  
+
 - 🌍 Website for **Shah Industries**
 - 🌍 Website for an **AC Technician** (Flask, Python)
 - 📒 **Khata Plus App** – tracks unpaid amounts for my father
