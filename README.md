@@ -54,8 +54,6 @@ B.Tech in AI & Data Science | Data Analyst | Machine Learning Engineer | Full-St
 - 🛒 E-commerce Website  
 - ✅ To-Do List App
 
----
-
 
 ## 🤖 Machine Learning & Prediction Projects
 
@@ -65,7 +63,6 @@ B.Tech in AI & Data Science | Data Analyst | Machine Learning Engineer | Full-St
 - 💻 **Laptop Price Prediction App** – Machine learning–based laptop price estimation from hardware specifications.  
 - 🌸 **Iris Flower Classification** – Random Forest model to classify Iris species via a Streamlit application.
 
----
 
 ## 📊 Data Analysis & EDA Projects
 
