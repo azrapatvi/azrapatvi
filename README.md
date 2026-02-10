@@ -33,7 +33,8 @@ B.Tech in AI & Data Science | Data Analyst | Machine Learning Engineer | Full-St
 
 ## 💻 Projects  
 
-### 🤖 AI Projects  
+## 🤖 AI Projects  
+
 - 🪪 **AI-Based Virtual Interviewer (FastAPI)** – End-to-end AI hiring platform with face verification and automated evaluation  
 - 🧑‍🤝‍🧑 **Face Recognition Attendance System** – Automated attendance using real-time face recognition  
 - 🔮 **LSTM-based Next-Word Prediction Model** – Sequence modeling for language prediction using deep learning  
@@ -44,7 +45,7 @@ B.Tech in AI & Data Science | Data Analyst | Machine Learning Engineer | Full-St
 - 🎬 **VidSnap AI Real Generator** – Generates narrated videos from images and prompts using AI
 
 
-### 🌐 Web Development Projects  
+## 🌐 Web Development Projects  
 
 - 🌍 Website for **Shah Industries**
 - 🌍 Website for an **AC Technician** (Flask, Python)
