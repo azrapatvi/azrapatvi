@@ -33,7 +33,7 @@ B.Tech in AI & Data Science | Data Analyst | Machine Learning Engineer | Full-St
 
 ## 💻 Projects  
 
-## 🤖 AI Projects  
+### 🤖 AI Projects  
 
 - 🪪 **AI-Based Virtual Interviewer (FastAPI)** – End-to-end AI hiring platform with face verification and automated evaluation  
 - 🧑‍🤝‍🧑 **Face Recognition Attendance System** – Automated attendance using real-time face recognition  
@@ -45,7 +45,7 @@ B.Tech in AI & Data Science | Data Analyst | Machine Learning Engineer | Full-St
 - 🎬 **VidSnap AI Real Generator** – Generates narrated videos from images and prompts using AI
 
 
-## 🌐 Web Development Projects  
+### 🌐 Web Development Projects  
 
 - 🌍 Website for **Shah Industries**
 - 🌍 Website for an **AC Technician** (Flask, Python)
@@ -57,7 +57,7 @@ B.Tech in AI & Data Science | Data Analyst | Machine Learning Engineer | Full-St
 - ✅ To-Do List App
 
 
-## 🤖 Machine Learning & Prediction Projects
+### 🤖 Machine Learning & Prediction Projects
 
 - 📊 **Customer Churn Prediction Web App** – Random Forest–based churn prediction with probability output via a Streamlit interface.  
 - 📈 **Stock Forecasting Dashboard** – Time-series forecasting using ARIMA, LSTM, and Prophet models.  
@@ -66,7 +66,7 @@ B.Tech in AI & Data Science | Data Analyst | Machine Learning Engineer | Full-St
 - 🌸 **Iris Flower Classification** – Random Forest model to classify Iris species via a Streamlit application.
 
 
-## 📊 Data Analysis & EDA Projects
+### 📊 Data Analysis & EDA Projects
 
 - 📊 **Chat With Your Data (AI-Powered EDA Tool)** – Natural-language dataset exploration with automated visual insights.
 - 💬 **WhatsApp Chat Analyzer (Streamlit App)** – Message statistics, emoji usage, timelines, word clouds, and activity heatmaps.   
