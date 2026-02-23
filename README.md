@@ -59,12 +59,14 @@ B.Tech in AI & Data Science | Data Analyst | Machine Learning Engineer | Full-St
 
 ### 🤖 Machine Learning & Prediction Projects
 
-- 📊 **Customer Churn Prediction Web App** – Random Forest–based churn prediction with probability output via a Streamlit interface.  
-- 📈 **Stock Forecasting Dashboard** – Time-series forecasting using ARIMA, LSTM, and Prophet models.  
-- 🔥 **Algerian Forest Fire Prediction** – Fire Weather Index (FWI) prediction using meteorological features with a Flask web app.  
-- 💻 **Laptop Price Prediction App** – Machine learning–based laptop price estimation from hardware specifications.  
-- 🌸 **Iris Flower Classification** – Random Forest model to classify Iris species via a Streamlit application.
-
+- 📊 **Customer Churn Prediction Web App** – End-to-end machine learning system to predict customer churn using a Random Forest classifier; includes data preprocessing, SMOTE for class imbalance handling, model comparison, probability score output, saved encoders/models, and real-time predictions via a Streamlit web interface with clear business impact on retention strategies.
+- 🧳 **Travel Package Purchase Prediction** – Classification model to predict whether a customer will purchase a travel package (0/1) using demographic and behavioral data; complete ML pipeline implemented in a single Jupyter Notebook including data cleaning, feature engineering, EDA, preprocessing with ColumnTransformer, model training (Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, AdaBoost), hyperparameter tuning using RandomizedSearchCV, and probability-based predictions.
+- 🚗🏍️ **Multi-Vehicle Price Predictor (Car & Bike)** – Streamlit-based web application that predicts resale prices for cars and bikes using separate datasets, independent EDA notebooks, individually trained models, saved preprocessors, and a unified real-time prediction interface demonstrating end-to-end ML deployment.
+- 🔥 **Algerian Forest Fire Prediction** – Fire Weather Index (FWI) prediction using meteorological features; includes data preprocessing, EDA, feature selection, model training, and deployment via a Flask web application for real-time fire risk assessment.
+- 📈 **Stock Forecasting Dashboard** – Time-series forecasting project using ARIMA, LSTM, and Prophet models to analyze historical trends and predict future stock prices through an interactive dashboard.
+- 🚗 **Car Price Prediction Web App** – Regression-based ML project focusing on structured preprocessing and encoding strategy; label encoding applied only to brand and model, remaining categorical features handled via preprocessing pipeline, model evaluation using R², MAE, and MSE, and deployment using Streamlit with price output in INR.
+- 💻 **Laptop Price Prediction App** – Streamlit-based machine learning application that predicts laptop prices based on processor speed, RAM size, and storage capacity using a pre-trained regression model with real-time inference.
+- 🌸 **Iris Flower Classification** – Random Forest classifier deployed using Streamlit to predict Iris species (Setosa, Versicolor, Virginica) based on sepal and petal measurements.
 
 ### 📊 Data Analysis & EDA Projects
 
