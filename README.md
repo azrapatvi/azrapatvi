@@ -1,101 +1,117 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Azra Patvi</h1>
-<h3 align="center">
-B.Tech in AI & Data Science | Data Analyst | Machine Learning Engineer | Full-Stack Developer
-</h3>
+# Hi 👋, I'm Azra Patvi
 
+### B.Tech in AI & Data Science | Data Analyst | Machine Learning Engineer | Full-Stack Developer
 
 ---
 
-## 🚀 About Me  
-- 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science** at **Loknete Shamrao Peje Government College of Engineering**  
-- 📜 Completed **Diploma in Computer Engineering** with strong academic performance  
-- 💼 Hands-on experience through internships in **Frontend Development, Data Analysis, and AI-based applications**  
-- 📊 Strong focus on **data-driven decision making, dashboards, and predictive modeling**  
+## 🚀 About Me
+- 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science** at **Loknete Shamrao Peje Government College of Engineering**
+- 📜 Completed **Diploma in Computer Engineering** with strong academic performance
+- 💼 Hands-on experience through internships in **Frontend Development, Data Analysis, and AI-based applications**
+- 📊 Strong focus on **data-driven decision making, dashboards, and predictive modeling**
 - 💡 Passionate about building **scalable, real-world solutions using AI, ML, and Analytics**
 
 ---
 
-# 🔥 Featured Project  
-## 🤖 AI Interviewer – Real-Time AI-Powered Virtual Interview Platform  
+# 🔥 Featured Project
+## 🤖 AI Interviewer – Real-Time AI-Powered Virtual Interview Platform
 
 > Built using **FastAPI, DeepFace, Google Gemini API, MongoDB, ReportLab, and OpenCV**
 
 🔥 A full-stack AI platform that:
-- Verifies candidate identity using face recognition  
-- Conducts AI-driven interviews in real time  
-- Analyzes answers using LLMs  
-- Generates automated interview reports  
+- Verifies candidate identity using face recognition
+- Conducts AI-driven interviews in real time
+- Analyzes answers using LLMs
+- Generates automated interview reports
 
 💡 **Business Impact:** Automates the hiring screening process and reduces manual interviewer effort.
 
 ---
 
-## 💻 Projects  
+## 💻 Projects
 
-### 🤖 AI Projects  
+### 🤖 AI Projects
 
-- 🪪 **AI-Based Virtual Interviewer (FastAPI)** – End-to-end AI hiring platform with face verification and automated evaluation  
-- 🧑‍🤝‍🧑 **Face Recognition Attendance System** – Automated attendance using real-time face recognition  
-- 🔮 **LSTM-based Next-Word Prediction Model** – Sequence modeling for language prediction using deep learning  
-- 🥘 **Recipe Generator Web App (GPT API)** – AI-based recipe generation from user ingredients  
-- 🤖 **Gemini Streamlit Chatbot** – Conversational AI chatbot using Google Gemini API  
-- 🎨 **Image Generator Web App (DALL·E)** – Text-to-image generation using generative AI  
-- 🤖 **Telegram Bot (GPT API)** – AI-powered Telegram bot for automated responses  
+- 🪪 **AI-Based Virtual Interviewer (FastAPI)** – End-to-end AI hiring platform with face verification and automated evaluation
+- 🧑‍🤝‍🧑 **Face Recognition Attendance System** – Automated attendance using real-time face recognition
+- 🔮 **LSTM-based Next-Word Prediction Model** – Sequence modeling for language prediction using deep learning
+- 🥘 **Recipe Generator Web App (GPT API)** – AI-based recipe generation from user ingredients
+- 🤖 **Gemini Streamlit Chatbot** – Conversational AI chatbot using Google Gemini API
+- 🎨 **Image Generator Web App (DALL·E)** – Text-to-image generation using generative AI
+- 🤖 **Telegram Bot (GPT API)** – AI-powered Telegram bot for automated responses
 - 🎬 **VidSnap AI Real Generator** – Generates narrated videos from images and prompts using AI
 
+---
 
-### 🌐 Web Development Projects  
+### 🌐 Web Development Projects
 
-- 🌍 Website for **Shah Industries**
-- 🌍 Website for an **AC Technician** (Flask, Python)
+- 🌍 Website for **Shah Industries** – Full multi-page informational website for a scrap buying business. Deployed on Netlify. [Live](https://ratnagiri-scrap.netlify.app)
+- 🌍 Website for **Warmer Bakes & Cakes** – Full stack web app for a home bakery with online menu, WhatsApp ordering, photo gallery and admin panel. Built with Python, Flask, MongoDB. Deployed on Railway. [Live](https://www.warmerbakesncakes.com)
+- 🌍 Website for **CoolAir Pro (AC Technician)** – Full stack web app with customer login, online booking, booking tracking and admin dashboard. Built with Python, Flask, MySQL. Deployed on PythonAnywhere. [Live](https://suhelshah.pythonanywhere.com)
 - 📒 **Khata Plus App** – tracks unpaid amounts for my father
-- 💰 Expense Tracker (Flask, Python)  
-- 🏥 Hospital Management System  
-- ☕ Café & Blizz System  
-- 🛒 E-commerce Website  
-- ✅ To-Do List App
+- 💰 **Expense Tracker** (Flask, Python)
+- 🏥 **Hospital Management System**
+- ☕ **Café & Blizz System**
+- 🛒 **E-commerce Website**
+- ✅ **To-Do List App**
 
+---
 
 ### 🤖 Machine Learning & Prediction Projects
 
 - 📊 **Customer Churn Prediction Web App** – End-to-end machine learning system to predict customer churn using a Random Forest classifier; includes data preprocessing, SMOTE for class imbalance handling, model comparison, probability score output, saved encoders/models, and real-time predictions via a Streamlit web interface with clear business impact on retention strategies.
+
 - 🧳 **Travel Package Purchase Prediction** – Classification model to predict whether a customer will purchase a travel package (0/1) using demographic and behavioral data; complete ML pipeline implemented in a single Jupyter Notebook including data cleaning, feature engineering, EDA, preprocessing with ColumnTransformer, model training (Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, AdaBoost), hyperparameter tuning using RandomizedSearchCV, and probability-based predictions.
+
 - 🚗🏍️ **Multi-Vehicle Price Predictor (Car & Bike)** – Streamlit-based web application that predicts resale prices for cars and bikes using separate datasets, independent EDA notebooks, individually trained models, saved preprocessors, and a unified real-time prediction interface demonstrating end-to-end ML deployment.
+
 - 🔥 **Algerian Forest Fire Prediction** – Fire Weather Index (FWI) prediction using meteorological features; includes data preprocessing, EDA, feature selection, model training, and deployment via a Flask web application for real-time fire risk assessment.
+
 - 📈 **Stock Forecasting Dashboard** – Time-series forecasting project using ARIMA, LSTM, and Prophet models to analyze historical trends and predict future stock prices through an interactive dashboard.
+
 - 🚗 **Car Price Prediction Web App** – Regression-based ML project focusing on structured preprocessing and encoding strategy; label encoding applied only to brand and model, remaining categorical features handled via preprocessing pipeline, model evaluation using R², MAE, and MSE, and deployment using Streamlit with price output in INR.
+
 - 💻 **Laptop Price Prediction App** – Streamlit-based machine learning application that predicts laptop prices based on processor speed, RAM size, and storage capacity using a pre-trained regression model with real-time inference.
+
 - 🌸 **Iris Flower Classification** – Random Forest classifier deployed using Streamlit to predict Iris species (Setosa, Versicolor, Virginica) based on sepal and petal measurements.
+
+- 🎓 **Student Exam Performance Indicator** – Flask-based ML web app that predicts a student's Math Score based on demographic and academic factors. Trains 10 models (Linear Regression, Ridge, Lasso, KNN, Decision Tree, Random Forest, AdaBoost, Gradient Boosting, XGBoost, CatBoost) with RandomizedSearchCV and auto-selects the best model by R². Full ML pipeline with data ingestion, transformation, and prediction components. Built using Python, Flask, Scikit-learn, XGBoost, CatBoost, Pandas, NumPy.
+
+- 🛒 **Walmart Sales Prediction** – End-to-end sales forecasting project on 6,435 rows of Walmart store data (45 stores, 2010–2012). Includes EDA, feature engineering (lag features, temp/fuel groups, month/year extraction), 6 ML models with hyperparameter tuning using RandomizedSearchCV, STL decomposition, stationarity testing (ADF), ARIMA, SARIMA and Prophet with cross validation. Best ML model: RandomForest (R²: 0.9293). Best time series model: Prophet. Saved deployable model using Pickle.
+
+- 📈 **Tesla Stock Price Forecasting using Prophet** – Stock price forecasting project for Tesla (TSLA) using Facebook Prophet on daily historical data from Yahoo Finance. Includes data collection using yfinance, preprocessing, Prophet model training, future predictions, and actual vs predicted visualization. Analyzes trend detection and evaluates model strengths and limitations on volatile financial data.
+
+- ⏱️ **Time Series Forecasting with ARIMA, SARIMA & Prophet** – Comprehensive time series forecasting project using three models — ARIMA, SARIMA and Facebook Prophet — on monthly champagne sales data. Includes stationarity checks using the ADF test, differencing, ACF & PACF analysis for parameter selection, model training and forecast visualization. Compares all three approaches on the same dataset.
+
+---
 
 ### 📊 Data Analysis & EDA Projects
 
 - 📊 **Chat With Your Data (AI-Powered EDA Tool)** – Natural-language dataset exploration with automated visual insights.
-- 💬 **WhatsApp Chat Analyzer (Streamlit App)** – Message statistics, emoji usage, timelines, word clouds, and activity heatmaps.   
-- 📉 **Customer Churn Analysis (EDA)** – Identified key churn drivers such as tenure, contract type, services, and payment methods to support retention strategies.  
-- 🛒 **Ecommerce Sales Analysis (EDA + Power BI)** – Business-focused sales, profit, discount impact, and regional performance analysis using interactive dashboards.  
-- 🛍️ **Walmart Sales Analysis (Python + SQL)** – End-to-end transaction, rating, time-based, and profitability analysis using advanced SQL queries.  
-- 🍕 **Pizza Sales Analysis (SQL + Python + Power BI)** – Sales trends, customer behavior, and category & size performance insights.  
-- 💳 **Credit Card Customer & Transaction Analysis (MySQL + Power BI)** – Customer demographics, transaction trends, and revenue KPI analysis.  
-- 🏥 **Hospital Management Dashboard (Power BI)** – Admissions, waiting time, satisfaction scores, referrals, and demographic analytics.  
-- 🚘 **Uber Analytics Dashboard (Power BI)** – Revenue trends, demand patterns, and customer behavior insights with interactive filters.  
-- 🛒 **Blinkit Sales Dashboard (Power BI + Python)** – Outlet-wise performance, item-type comparison, and sales trend analysis.  
-- 📦 **Amazon Sales Dashboard (Power BI)** – Order trends, cancellations, category performance, and payment method insights.  
-- 🟢 **UPI Transaction Dashboard (Power BI)** – Bank-wise transaction trends, success rates, and customer usage analysis.  
-- 🟣 **Insurance Policy Analysis Dashboard (Power BI)** – Policy status, premium types, claims distribution, and age-wise coverage insights.  
-- 🐦 **Twitter Analytics Project (Python + Power BI)** – Twitter data preprocessing and visualization for engagement and trend insights.  
-- 🪔 **Diwali Sales Data Analysis (Python EDA)** – Festival-season customer segmentation and purchasing behavior analysis.  
-- 🎓 **Student Performance Analysis (Python EDA)** – Visual exploration of academic performance and influencing factors.   
-- ✈️ **Flight Price Analysis (EDA)** – Analysis of airline, route, stops, and journey date effects on ticket prices.  
-- 📱 **Google Play Store Apps Analysis (EDA)** – App category, rating, install, and pricing trend analysis.  
+- 💬 **WhatsApp Chat Analyzer (Streamlit App)** – Message statistics, emoji usage, timelines, word clouds, and activity heatmaps.
+- 📉 **Customer Churn Analysis (EDA)** – Identified key churn drivers such as tenure, contract type, services, and payment methods to support retention strategies.
+- 🛒 **Ecommerce Sales Analysis (EDA + Power BI)** – Business-focused sales, profit, discount impact, and regional performance analysis using interactive dashboards.
+- 🛍️ **Walmart Sales Analysis (Python + SQL)** – End-to-end transaction, rating, time-based, and profitability analysis using advanced SQL queries.
+- 🍕 **Pizza Sales Analysis (SQL + Python + Power BI)** – Sales trends, customer behavior, and category & size performance insights.
+- 💳 **Credit Card Customer & Transaction Analysis (MySQL + Power BI)** – Customer demographics, transaction trends, and revenue KPI analysis.
+- 🏥 **Hospital Management Dashboard (Power BI)** – Admissions, waiting time, satisfaction scores, referrals, and demographic analytics.
+- 🚘 **Uber Analytics Dashboard (Power BI)** – Revenue trends, demand patterns, and customer behavior insights with interactive filters.
+- 🛒 **Blinkit Sales Dashboard (Power BI + Python)** – Outlet-wise performance, item-type comparison, and sales trend analysis.
+- 📦 **Amazon Sales Dashboard (Power BI)** – Order trends, cancellations, category performance, and payment method insights.
+- 🟢 **UPI Transaction Dashboard (Power BI)** – Bank-wise transaction trends, success rates, and customer usage analysis.
+- 🟣 **Insurance Policy Analysis Dashboard (Power BI)** – Policy status, premium types, claims distribution, and age-wise coverage insights.
+- 🐦 **Twitter Analytics Project (Python + Power BI)** – Twitter data preprocessing and visualization for engagement and trend insights.
+- 🪔 **Diwali Sales Data Analysis (Python EDA)** – Festival-season customer segmentation and purchasing behavior analysis.
+- 🎓 **Student Performance Analysis (Python EDA)** – Visual exploration of academic performance and influencing factors.
+- ✈️ **Flight Price Analysis (EDA)** – Analysis of airline, route, stops, and journey date effects on ticket prices.
+- 📱 **Google Play Store Apps Analysis (EDA)** – App category, rating, install, and pricing trend analysis.
 - 🍷 **Red Wine Quality Analysis (EDA)** – Physicochemical feature analysis and wine quality relationships.
 
 ---
 
-
 ## 🛠️ Tech Stack
 
-### **AI & ML **
+### **AI & ML**
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![DeepFace](https://img.shields.io/badge/DeepFace-FF6F00?style=flat&logo=python&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat&logo=google&logoColor=white)
@@ -161,6 +177,7 @@ B.Tech in AI & Data Science | Data Analyst | Machine Learning Engineer | Full-St
 ![ReportLab](https://img.shields.io/badge/ReportLab-000000?style=flat)
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -187,4 +204,3 @@ B.Tech in AI & Data Science | Data Analyst | Machine Learning Engineer | Full-St
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
-
