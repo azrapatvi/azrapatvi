@@ -31,81 +31,118 @@
 ## 💻 Projects
 
 ### 🤖 AI Projects
+> Ranked by impact — most impressive first
 
-- 🪪 **AI-Based Virtual Interviewer (FastAPI)** – End-to-end AI hiring platform with face verification and automated evaluation
-- 🧑‍🤝‍🧑 **Face Recognition Attendance System** – Automated attendance using real-time face recognition
-- 🔮 **LSTM-based Next-Word Prediction Model** – Sequence modeling for language prediction using deep learning
-- 🥘 **Recipe Generator Web App (GPT API)** – AI-based recipe generation from user ingredients
-- 🤖 **Gemini Streamlit Chatbot** – Conversational AI chatbot using Google Gemini API
-- 🎨 **Image Generator Web App (DALL·E)** – Text-to-image generation using generative AI
-- 🤖 **Telegram Bot (GPT API)** – AI-powered Telegram bot for automated responses
-- 🎬 **VidSnap AI Real Generator** – Generates narrated videos from images and prompts using AI
+- 🪪 **AI-Based Virtual Interviewer (FastAPI)** – End-to-end AI hiring platform with face verification, real-time AI interviews, LLM-based answer evaluation and automated report generation. Built using FastAPI, DeepFace, Google Gemini API, MongoDB, OpenCV and ReportLab.
 
----
+- 🧑‍🤝‍🧑 **Face Recognition Attendance System** – Automated attendance using real-time face recognition. Eliminates manual attendance process entirely.
 
-### 🌐 Web Development Projects
+- 🎬 **VidSnap AI Real Generator** – Generates narrated videos from images and prompts using AI.
 
-- 🌍 Website for **Shah Industries** – Full multi-page informational website for a scrap buying business. Deployed on Netlify. [Live](https://ratnagiri-scrap.netlify.app)
-- 🌍 Website for **Warmer Bakes & Cakes** – Full stack web app for a home bakery with online menu, WhatsApp ordering, photo gallery and admin panel. Built with Python, Flask, MongoDB. Deployed on Railway. [Live](https://www.warmerbakesncakes.com)
-- 🌍 Website for **CoolAir Pro (AC Technician)** – Full stack web app with customer login, online booking, booking tracking and admin dashboard. Built with Python, Flask, MySQL. Deployed on PythonAnywhere. [Live](https://suhelshah.pythonanywhere.com)
-- 📒 **Khata Plus App** – tracks unpaid amounts for my father
-- 💰 **Expense Tracker** (Flask, Python)
-- 🏥 **Hospital Management System**
-- ☕ **Café & Blizz System**
-- 🛒 **E-commerce Website**
-- ✅ **To-Do List App**
+- 🔮 **LSTM-based Next-Word Prediction Model** – Sequence modeling for language prediction using deep learning.
+
+- 🥘 **Recipe Generator Web App (GPT API)** – AI-based recipe generation from user ingredients using GPT API.
+
+- 🤖 **Gemini Streamlit Chatbot** – Conversational AI chatbot using Google Gemini API.
+
+- 🎨 **Image Generator Web App (DALL·E)** – Text-to-image generation using generative AI.
+
+- 🤖 **Telegram Bot (GPT API)** – AI-powered Telegram bot for automated responses.
 
 ---
 
 ### 🤖 Machine Learning & Prediction Projects
+> Ranked by impact — most impressive first
 
-- 📊 **Customer Churn Prediction Web App** – End-to-end machine learning system to predict customer churn using a Random Forest classifier; includes data preprocessing, SMOTE for class imbalance handling, model comparison, probability score output, saved encoders/models, and real-time predictions via a Streamlit web interface with clear business impact on retention strategies.
+- 🛒 **Walmart Sales Prediction** – End-to-end sales forecasting on 6,435 rows of real Walmart store data (45 stores, 2010–2012). Includes EDA, feature engineering (lag features, temp/fuel groups, month/year extraction), 6 ML models with hyperparameter tuning using RandomizedSearchCV, STL decomposition, stationarity testing (ADF), ARIMA, SARIMA and Prophet with cross validation. Best ML model: RandomForest (R²: 0.9293). Best time series model: Prophet. Saved deployable model using Pickle.
 
-- 🧳 **Travel Package Purchase Prediction** – Classification model to predict whether a customer will purchase a travel package (0/1) using demographic and behavioral data; complete ML pipeline implemented in a single Jupyter Notebook including data cleaning, feature engineering, EDA, preprocessing with ColumnTransformer, model training (Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, AdaBoost), hyperparameter tuning using RandomizedSearchCV, and probability-based predictions.
+- 🎓 **Student Exam Performance Indicator** – Flask-based ML web app that predicts a student's Math Score. Trains 10 models (Linear Regression, Ridge, Lasso, KNN, Decision Tree, Random Forest, AdaBoost, Gradient Boosting, XGBoost, CatBoost) with RandomizedSearchCV and auto-selects the best model by R². Full production-grade ML pipeline with data ingestion, transformation and prediction components.
 
-- 🚗🏍️ **Multi-Vehicle Price Predictor (Car & Bike)** – Streamlit-based web application that predicts resale prices for cars and bikes using separate datasets, independent EDA notebooks, individually trained models, saved preprocessors, and a unified real-time prediction interface demonstrating end-to-end ML deployment.
+- 📊 **Customer Churn Prediction Web App** – End-to-end ML system to predict customer churn using Random Forest with SMOTE for class imbalance handling, probability score output, saved encoders/models and real-time predictions via Streamlit. Clear business impact on customer retention strategies.
 
-- 🔥 **Algerian Forest Fire Prediction** – Fire Weather Index (FWI) prediction using meteorological features; includes data preprocessing, EDA, feature selection, model training, and deployment via a Flask web application for real-time fire risk assessment.
+- 📈 **Stock Forecasting Dashboard** – Time-series forecasting using ARIMA, LSTM and Prophet models to analyze historical trends and predict future stock prices through an interactive dashboard.
 
-- 📈 **Stock Forecasting Dashboard** – Time-series forecasting project using ARIMA, LSTM, and Prophet models to analyze historical trends and predict future stock prices through an interactive dashboard.
+- 📈 **Tesla Stock Price Forecasting using Prophet** – Stock price forecasting for Tesla (TSLA) using Facebook Prophet on daily data from Yahoo Finance. Includes data collection via yfinance, preprocessing, model training, future predictions and actual vs predicted visualization. Evaluates model strengths and limitations on volatile financial data.
 
-- 🚗 **Car Price Prediction Web App** – Regression-based ML project focusing on structured preprocessing and encoding strategy; label encoding applied only to brand and model, remaining categorical features handled via preprocessing pipeline, model evaluation using R², MAE, and MSE, and deployment using Streamlit with price output in INR.
+- ⏱️ **Time Series Forecasting with ARIMA, SARIMA & Prophet** – Comprehensive comparison of three forecasting models on monthly champagne sales data. Includes stationarity checks using ADF test, differencing, ACF & PACF analysis, model training and forecast visualization across all three approaches.
 
-- 💻 **Laptop Price Prediction App** – Streamlit-based machine learning application that predicts laptop prices based on processor speed, RAM size, and storage capacity using a pre-trained regression model with real-time inference.
+- 🧳 **Travel Package Purchase Prediction** – Classification model to predict travel package purchase (0/1). Complete ML pipeline with data cleaning, feature engineering, EDA, ColumnTransformer preprocessing, model training (Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, AdaBoost), hyperparameter tuning using RandomizedSearchCV and probability-based predictions.
 
-- 🌸 **Iris Flower Classification** – Random Forest classifier deployed using Streamlit to predict Iris species (Setosa, Versicolor, Virginica) based on sepal and petal measurements.
+- 🚗🏍️ **Multi-Vehicle Price Predictor (Car & Bike)** – Streamlit web app predicting resale prices for cars and bikes. Separate EDA notebooks, individually trained models, saved preprocessors and a unified real-time prediction interface.
 
-- 🎓 **Student Exam Performance Indicator** – Flask-based ML web app that predicts a student's Math Score based on demographic and academic factors. Trains 10 models (Linear Regression, Ridge, Lasso, KNN, Decision Tree, Random Forest, AdaBoost, Gradient Boosting, XGBoost, CatBoost) with RandomizedSearchCV and auto-selects the best model by R². Full ML pipeline with data ingestion, transformation, and prediction components. Built using Python, Flask, Scikit-learn, XGBoost, CatBoost, Pandas, NumPy.
+- 🔥 **Algerian Forest Fire Prediction** – FWI prediction using meteorological features. Includes preprocessing, EDA, feature selection, model training and deployment via a Flask web application for real-time fire risk assessment.
 
-- 🛒 **Walmart Sales Prediction** – End-to-end sales forecasting project on 6,435 rows of Walmart store data (45 stores, 2010–2012). Includes EDA, feature engineering (lag features, temp/fuel groups, month/year extraction), 6 ML models with hyperparameter tuning using RandomizedSearchCV, STL decomposition, stationarity testing (ADF), ARIMA, SARIMA and Prophet with cross validation. Best ML model: RandomForest (R²: 0.9293). Best time series model: Prophet. Saved deployable model using Pickle.
+- 🚗 **Car Price Prediction Web App** – Regression-based ML project with structured preprocessing and encoding strategy. Model evaluation using R², MAE and MSE. Deployed on Streamlit with price output in INR.
 
-- 📈 **Tesla Stock Price Forecasting using Prophet** – Stock price forecasting project for Tesla (TSLA) using Facebook Prophet on daily historical data from Yahoo Finance. Includes data collection using yfinance, preprocessing, Prophet model training, future predictions, and actual vs predicted visualization. Analyzes trend detection and evaluates model strengths and limitations on volatile financial data.
+- 💻 **Laptop Price Prediction App** – Predicts laptop prices based on processor speed, RAM and storage using a pre-trained regression model. Deployed on Streamlit with real-time inference.
 
-- ⏱️ **Time Series Forecasting with ARIMA, SARIMA & Prophet** – Comprehensive time series forecasting project using three models — ARIMA, SARIMA and Facebook Prophet — on monthly champagne sales data. Includes stationarity checks using the ADF test, differencing, ACF & PACF analysis for parameter selection, model training and forecast visualization. Compares all three approaches on the same dataset.
+- 🌸 **Iris Flower Classification** – Random Forest classifier deployed on Streamlit to predict Iris species based on sepal and petal measurements.
 
 ---
 
 ### 📊 Data Analysis & EDA Projects
+> Ranked by impact — most impressive first
+
+- 💳 **Credit Card Customer & Transaction Analysis (MySQL + Power BI)** – Customer demographics, transaction trends and revenue KPI analysis.
+
+- 🛒 **Ecommerce Sales Analysis (EDA + Power BI)** – Business-focused sales, profit, discount impact and regional performance analysis using interactive dashboards.
+
+- 🛍️ **Walmart Sales Analysis (Python + SQL)** – End-to-end transaction, rating, time-based and profitability analysis using advanced SQL queries.
+
+- 🏥 **Hospital Management Dashboard (Power BI)** – Admissions, waiting time, satisfaction scores, referrals and demographic analytics.
 
 - 📊 **Chat With Your Data (AI-Powered EDA Tool)** – Natural-language dataset exploration with automated visual insights.
-- 💬 **WhatsApp Chat Analyzer (Streamlit App)** – Message statistics, emoji usage, timelines, word clouds, and activity heatmaps.
-- 📉 **Customer Churn Analysis (EDA)** – Identified key churn drivers such as tenure, contract type, services, and payment methods to support retention strategies.
-- 🛒 **Ecommerce Sales Analysis (EDA + Power BI)** – Business-focused sales, profit, discount impact, and regional performance analysis using interactive dashboards.
-- 🛍️ **Walmart Sales Analysis (Python + SQL)** – End-to-end transaction, rating, time-based, and profitability analysis using advanced SQL queries.
-- 🍕 **Pizza Sales Analysis (SQL + Python + Power BI)** – Sales trends, customer behavior, and category & size performance insights.
-- 💳 **Credit Card Customer & Transaction Analysis (MySQL + Power BI)** – Customer demographics, transaction trends, and revenue KPI analysis.
-- 🏥 **Hospital Management Dashboard (Power BI)** – Admissions, waiting time, satisfaction scores, referrals, and demographic analytics.
-- 🚘 **Uber Analytics Dashboard (Power BI)** – Revenue trends, demand patterns, and customer behavior insights with interactive filters.
-- 🛒 **Blinkit Sales Dashboard (Power BI + Python)** – Outlet-wise performance, item-type comparison, and sales trend analysis.
-- 📦 **Amazon Sales Dashboard (Power BI)** – Order trends, cancellations, category performance, and payment method insights.
-- 🟢 **UPI Transaction Dashboard (Power BI)** – Bank-wise transaction trends, success rates, and customer usage analysis.
-- 🟣 **Insurance Policy Analysis Dashboard (Power BI)** – Policy status, premium types, claims distribution, and age-wise coverage insights.
+
+- 🚘 **Uber Analytics Dashboard (Power BI)** – Revenue trends, demand patterns and customer behavior insights with interactive filters.
+
+- 🟢 **UPI Transaction Dashboard (Power BI)** – Bank-wise transaction trends, success rates and customer usage analysis.
+
+- 🍕 **Pizza Sales Analysis (SQL + Python + Power BI)** – Sales trends, customer behavior and category & size performance insights.
+
+- 📦 **Amazon Sales Dashboard (Power BI)** – Order trends, cancellations, category performance and payment method insights.
+
+- 📉 **Customer Churn Analysis (EDA)** – Identified key churn drivers such as tenure, contract type, services and payment methods to support retention strategies.
+
+- 🟣 **Insurance Policy Analysis Dashboard (Power BI)** – Policy status, premium types, claims distribution and age-wise coverage insights.
+
+- 💬 **WhatsApp Chat Analyzer (Streamlit App)** – Message statistics, emoji usage, timelines, word clouds and activity heatmaps.
+
+- 🛒 **Blinkit Sales Dashboard (Power BI + Python)** – Outlet-wise performance, item-type comparison and sales trend analysis.
+
 - 🐦 **Twitter Analytics Project (Python + Power BI)** – Twitter data preprocessing and visualization for engagement and trend insights.
+
 - 🪔 **Diwali Sales Data Analysis (Python EDA)** – Festival-season customer segmentation and purchasing behavior analysis.
+
+- ✈️ **Flight Price Analysis (EDA)** – Analysis of airline, route, stops and journey date effects on ticket prices.
+
 - 🎓 **Student Performance Analysis (Python EDA)** – Visual exploration of academic performance and influencing factors.
-- ✈️ **Flight Price Analysis (EDA)** – Analysis of airline, route, stops, and journey date effects on ticket prices.
-- 📱 **Google Play Store Apps Analysis (EDA)** – App category, rating, install, and pricing trend analysis.
+
+- 📱 **Google Play Store Apps Analysis (EDA)** – App category, rating, install and pricing trend analysis.
+
 - 🍷 **Red Wine Quality Analysis (EDA)** – Physicochemical feature analysis and wine quality relationships.
+
+---
+
+### 🌐 Web Development Projects
+> Ranked by impact — most impressive first
+
+- 🌍 **Warmer Bakes & Cakes** – Full stack web app for a home bakery with online menu, WhatsApp ordering, photo gallery and complete admin panel. Built with Python, Flask, MongoDB, Cloudinary. Deployed on Railway. [Live](https://www.warmerbakesncakes.com)
+
+- 🌍 **CoolAir Pro (AC Technician)** – Full stack web app with dual role login, online service booking, booking tracking and admin dashboard with stats. Built with Python, Flask, MySQL. Deployed on PythonAnywhere. [Live](https://suhelshah.pythonanywhere.com)
+
+- 🌍 **Shah Industries** – Full multi-page informational website for a scrap buying business. Responsive design, Google Maps embed, contact form. Deployed on Netlify. [Live](https://ratnagiri-scrap.netlify.app)
+
+- 📒 **Khata Plus App** – Tracks unpaid amounts. Built with Flask, Python.
+
+- 💰 **Expense Tracker** – Built with Flask, Python.
+
+- 🏥 **Hospital Management System**
+
+- ☕ **Café & Blizz System**
+
+- 🛒 **E-commerce Website**
+
+- ✅ **To-Do List App**
 
 ---
 
