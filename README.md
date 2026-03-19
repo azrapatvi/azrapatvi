@@ -31,7 +31,7 @@
 ## 💻 Projects
 
 ### 🤖 AI Projects
-> Ranked by impact — most impressive first
+
 
 - 🪪 **AI-Based Virtual Interviewer (FastAPI)** – End-to-end AI hiring platform with face verification, real-time AI interviews, LLM-based answer evaluation and automated report generation. Built using FastAPI, DeepFace, Google Gemini API, MongoDB, OpenCV and ReportLab.
 
@@ -52,7 +52,7 @@
 ---
 
 ### 🤖 Machine Learning & Prediction Projects
-> Ranked by impact — most impressive first
+
 
 - 🛒 **Walmart Sales Prediction** – End-to-end sales forecasting on 6,435 rows of real Walmart store data (45 stores, 2010–2012). Includes EDA, feature engineering (lag features, temp/fuel groups, month/year extraction), 6 ML models with hyperparameter tuning using RandomizedSearchCV, STL decomposition, stationarity testing (ADF), ARIMA, SARIMA and Prophet with cross validation. Best ML model: RandomForest (R²: 0.9293). Best time series model: Prophet. Saved deployable model using Pickle.
 
@@ -81,7 +81,7 @@
 ---
 
 ### 📊 Data Analysis & EDA Projects
-> Ranked by impact — most impressive first
+
 
 - 💳 **Credit Card Customer & Transaction Analysis (MySQL + Power BI)** – Customer demographics, transaction trends and revenue KPI analysis.
 
@@ -124,7 +124,7 @@
 ---
 
 ### 🌐 Web Development Projects
-> Ranked by impact — most impressive first
+
 
 - 🌍 **Warmer Bakes & Cakes** – Full stack web app for a home bakery with online menu, WhatsApp ordering, photo gallery and complete admin panel. Built with Python, Flask, MongoDB, Cloudinary. Deployed on Railway. [Live](https://www.warmerbakesncakes.com)
 
