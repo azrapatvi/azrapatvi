@@ -32,7 +32,6 @@
 
 ### 🤖 AI Projects
 
-
 - 🪪 **AI-Based Virtual Interviewer (FastAPI)** – End-to-end AI hiring platform with face verification, real-time AI interviews, LLM-based answer evaluation and automated report generation. Built using FastAPI, DeepFace, Google Gemini API, MongoDB, OpenCV and ReportLab.
 
 - 🧑‍🤝‍🧑 **Face Recognition Attendance System** – Automated attendance using real-time face recognition. Eliminates manual attendance process entirely.
@@ -53,12 +52,23 @@
 
 ### 🤖 Machine Learning & Prediction Projects
 
-
 - 🛒 **Walmart Sales Prediction** – End-to-end sales forecasting on 6,435 rows of real Walmart store data (45 stores, 2010–2012). Includes EDA, feature engineering (lag features, temp/fuel groups, month/year extraction), 6 ML models with hyperparameter tuning using RandomizedSearchCV, STL decomposition, stationarity testing (ADF), ARIMA, SARIMA and Prophet with cross validation. Best ML model: RandomForest (R²: 0.9293). Best time series model: Prophet. Saved deployable model using Pickle.
 
 - 🎓 **Student Exam Performance Indicator** – Flask-based ML web app that predicts a student's Math Score. Trains 10 models (Linear Regression, Ridge, Lasso, KNN, Decision Tree, Random Forest, AdaBoost, Gradient Boosting, XGBoost, CatBoost) with RandomizedSearchCV and auto-selects the best model by R². Full production-grade ML pipeline with data ingestion, transformation and prediction components.
 
 - 📊 **Customer Churn Prediction Web App** – End-to-end ML system to predict customer churn using Random Forest with SMOTE for class imbalance handling, probability score output, saved encoders/models and real-time predictions via Streamlit. Clear business impact on customer retention strategies.
+
+- 🚗🏍️ **VehicleAI – Multi-Vehicle Price Predictor (Car, Bike & EV)** – Flask-based ML web app predicting resale prices for used cars and bikes, and market prices for new EVs. Features 3 separate ML models, a Fair Price Checker (compares asking price vs. predicted fair price), and a Budget Finder that filters real dataset records. Uses Label Encoding, Mean Encoding, StandardScaler, and saved preprocessors. Deployed with a clean custom CSS frontend.
+
+- 🛡️ **Text Harassment Classifier** – ML web app that detects whether a social media comment is harassment or normal. Built with Logistic Regression, TF-IDF (unigrams + bigrams), and Streamlit. Trained on 6,075 cleaned comments from Facebook, TikTok, YouTube, and Instagram. Tuned with GridSearchCV (5-fold, F1 scoring). Accuracy: 86.67%, F1: 88%. Outputs prediction with confidence score.
+
+- 📚 **Kindle Review Sentiment Analyser** – NLP-based sentiment classifier for Amazon Kindle book reviews using Multinomial Naive Bayes and TF-IDF (unigrams + bigrams, top 5000 features). Full NLP pipeline: URL/HTML removal, POS tagging, WordNet lemmatization, SMOTE for class imbalance. ~90% accuracy, precision, and recall. Deployed as a Streamlit web app with saved model bundle (Joblib).
+
+- 💬 **SMS Spam Classifier using Word2Vec** – Classifies SMS messages as Spam or Ham using Word2Vec embeddings and ensemble ML models. Trained Word2Vec on cleaned SMS corpus (100-dim vectors), used average word vectors as sentence representations. Compared Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, and XGBoost. Final model: tuned Random Forest via RandomizedSearchCV. Includes full preprocessing pipeline with lemmatization and stopword removal.
+
+- 🎯 **Customer Support Ticket Analysis & Satisfaction Prediction** – End-to-end data analysis and ML classification project on customer support tickets. Identifies complaint patterns, support efficiency, and product-related issues. Predicts customer satisfaction rating using GradientBoostingClassifier (tuned via RandomizedSearchCV). Feature engineering includes mean encoding for product and ticket subject, StandardScaler, and OneHotEncoder via ColumnTransformer.
+
+- 💰 **Sales Profit Prediction** – End-to-end EDA and ML regression project on 113,036 rows of global sales data. Trained and compared Linear Regression, Decision Tree, and Gradient Boosting. Tuned GradientBoostingRegressor via GridSearchCV (5-fold CV, R²: 0.9855). Final model: MAE 16.45, RMSE 30.99, R²: 0.9953. Deployed as a Streamlit web app with full input form and ±50 expected profit range output.
 
 - 📈 **Stock Forecasting Dashboard** – Time-series forecasting using ARIMA, LSTM and Prophet models to analyze historical trends and predict future stock prices through an interactive dashboard.
 
@@ -67,8 +77,6 @@
 - ⏱️ **Time Series Forecasting with ARIMA, SARIMA & Prophet** – Comprehensive comparison of three forecasting models on monthly champagne sales data. Includes stationarity checks using ADF test, differencing, ACF & PACF analysis, model training and forecast visualization across all three approaches.
 
 - 🧳 **Travel Package Purchase Prediction** – Classification model to predict travel package purchase (0/1). Complete ML pipeline with data cleaning, feature engineering, EDA, ColumnTransformer preprocessing, model training (Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, AdaBoost), hyperparameter tuning using RandomizedSearchCV and probability-based predictions.
-
-- 🚗🏍️ **Multi-Vehicle Price Predictor (Car & Bike)** – Streamlit web app predicting resale prices for cars and bikes. Separate EDA notebooks, individually trained models, saved preprocessors and a unified real-time prediction interface.
 
 - 🔥 **Algerian Forest Fire Prediction** – FWI prediction using meteorological features. Includes preprocessing, EDA, feature selection, model training and deployment via a Flask web application for real-time fire risk assessment.
 
@@ -82,6 +90,7 @@
 
 ### 📊 Data Analysis & EDA Projects
 
+- 🎬 **Movies Dataset EDA on Databricks (Apache Spark + PySpark + Spark SQL)** – End-to-end exploratory data analysis on a movies dataset using Databricks and Apache Spark. Covers industry/language/studio analysis, revenue and profit analysis, IMDb rating trends, CASE WHEN rating classification (HIT / AVERAGE / FLOP), DENSE_RANK() window functions partitioned by industry, and ROI calculation. Built using both PySpark DataFrame API and Spark SQL on a Unity Catalog Delta table. Demonstrates big data tooling experience.
 
 - 💳 **Credit Card Customer & Transaction Analysis (MySQL + Power BI)** – Customer demographics, transaction trends and revenue KPI analysis.
 
@@ -123,8 +132,15 @@
 
 ---
 
-### 🌐 Web Development Projects
+### 🕷️ Web Scraping Projects
 
+- 🛒 **Amazon Beauty Products Scraper** – Multi-page scraper for Amazon India beauty product listings extracting product name, rating, and price. Handles Amazon's strict bot detection with a full header bundle, extracts product titles from `aria-label` attributes, filters out sponsored listings using `data-component-type`, maintains list alignment with None fallbacks, and saves results to CSV using `pd.concat`. Tech stack: requests, BeautifulSoup, pandas, lxml.
+
+- 🏢 **AmbitionBox Company Scraper** – Scrapes company listings from AmbitionBox extracting company name, rating, industry type, location, review count, and salary count. Handles 403 errors with User-Agent headers, uses conditional label-based extraction, and includes multi-page scraping with loop-based pagination. Tech stack: requests, BeautifulSoup, pandas, lxml.
+
+---
+
+### 🌐 Web Development Projects
 
 - 🌍 **Warmer Bakes & Cakes** – Full stack web app for a home bakery with online menu, WhatsApp ordering, photo gallery and complete admin panel. Built with Python, Flask, MongoDB, Cloudinary. Deployed on Railway. [Live](https://www.warmerbakesncakes.com)
 
@@ -195,6 +211,21 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat)
+
+---
+
+### **Big Data**
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+
+---
+
+### **NLP**
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat)
+![Gensim](https://img.shields.io/badge/Gensim-3776AB?style=flat)
+![Word2Vec](https://img.shields.io/badge/Word2Vec-FF6F00?style=flat)
+![TF--IDF](https://img.shields.io/badge/TF--IDF-4A90E2?style=flat)
 
 ---
 
