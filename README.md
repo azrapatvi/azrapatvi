@@ -1,6 +1,6 @@
 # Hi 👋, I'm Azra Patvi
 
-### B.Tech in AI & Data Science | Data Analyst | Machine Learning Engineer | Full-Stack Developer
+### B.Tech in AI & Data Science | Data Analyst |Data Scientist | Machine Learning Engineer | Full-Stack Developer
 
 ---
 
