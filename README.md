@@ -134,6 +134,8 @@
 
 ### 🕷️ Web Scraping Projects
 
+- 📚 **Books to Scrape — Full Catalogue Scraper** – Scrapes all 1000 books across 50 pages from books.toscrape.com, extracting book name, price, star rating, stock availability, book description, image URL, and individual book page link. Key techniques: extracting data from HTML attributes (`alt`, `src`, `href`), reading star ratings encoded as CSS class names, fixing broken relative URLs using `urljoin`, following links to individual book pages for deeper data, fixing encoding issues with `response.encoding = 'utf-8'`, cleaning trailing junk text with string splitting, and adding new columns directly to an existing DataFrame. Tech stack: requests, BeautifulSoup, pandas, lxml, urllib.parse.
+
 - 🛒 **Amazon Beauty Products Scraper** – Multi-page scraper for Amazon India beauty product listings extracting product name, rating, and price. Handles Amazon's strict bot detection with a full header bundle, extracts product titles from `aria-label` attributes, filters out sponsored listings using `data-component-type`, maintains list alignment with None fallbacks, and saves results to CSV using `pd.concat`. Tech stack: requests, BeautifulSoup, pandas, lxml.
 
 - 🏢 **AmbitionBox Company Scraper** – Scrapes company listings from AmbitionBox extracting company name, rating, industry type, location, review count, and salary count. Handles 403 errors with User-Agent headers, uses conditional label-based extraction, and includes multi-page scraping with loop-based pagination. Tech stack: requests, BeautifulSoup, pandas, lxml.
