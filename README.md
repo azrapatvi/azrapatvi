@@ -1,6 +1,6 @@
 # Hi 👋, I'm Azra Patvi
 
-### B.Tech in AI & Data Science | Data Analyst |Data Scientist | Machine Learning Engineer | Full-Stack Developer
+### B.Tech in AI & Data Science | Data Analyst | Data Scientist | Machine Learning Engineer | Full-Stack Developer
 
 ---
 
@@ -52,11 +52,17 @@
 
 ### 🤖 Machine Learning & Prediction Projects
 
+- 🎬 **TMDB Movie Revenue Predictor** – Predicts box office revenue for movies using the TMDB dataset (top 8,000 movies filtered by vote count, revenue > $1M, budget > $100K). Full pipeline: data ingestion, feature engineering (genre OHE, language count, log-transform on target), preprocessing via ColumnTransformer, 7 model comparison (Linear Regression, Random Forest, XGBoost, Gradient Boosting, AdaBoost, Decision Tree, KNeighbors), and hyperparameter tuning using RandomizedSearchCV. Best model: GradientBoostingRegressor (Test R²: 0.510, RMSE: ~$144M). Tech stack: Python, scikit-learn, XGBoost, Google Colab.
+
 - 🛒 **Walmart Sales Prediction** – End-to-end sales forecasting on 6,435 rows of real Walmart store data (45 stores, 2010–2012). Includes EDA, feature engineering (lag features, temp/fuel groups, month/year extraction), 6 ML models with hyperparameter tuning using RandomizedSearchCV, STL decomposition, stationarity testing (ADF), ARIMA, SARIMA and Prophet with cross validation. Best ML model: RandomForest (R²: 0.9293). Best time series model: Prophet. Saved deployable model using Pickle.
 
 - 🎓 **Student Exam Performance Indicator** – Flask-based ML web app that predicts a student's Math Score. Trains 10 models (Linear Regression, Ridge, Lasso, KNN, Decision Tree, Random Forest, AdaBoost, Gradient Boosting, XGBoost, CatBoost) with RandomizedSearchCV and auto-selects the best model by R². Full production-grade ML pipeline with data ingestion, transformation and prediction components.
 
 - 📊 **Customer Churn Prediction Web App** – End-to-end ML system to predict customer churn using Random Forest with SMOTE for class imbalance handling, probability score output, saved encoders/models and real-time predictions via Streamlit. Clear business impact on customer retention strategies.
+
+- 🧠 **Bank Churn ANN Classifier** – Binary classification ANN built with TensorFlow/Keras to predict whether a bank customer will churn, trained on 10,000 records. Full pipeline: Label Encoding + OneHotEncoder + StandardScaler via ColumnTransformer, ANN with Dropout and L2 regularization, EarlyStopping, TensorBoard, and GridSearchCV hyperparameter tuning over neurons, layers, and epochs using scikeras. Saved model and preprocessor artifacts for inference.
+
+- 💎 **Salary Oracle – Customer Salary Prediction with ANN** – ANN regression model (TensorFlow/Keras) that predicts a bank customer's estimated salary from 9 input attributes. Pipeline: Label Encoding, OneHotEncoder, StandardScaler via ColumnTransformer; 3-layer feedforward ANN (Dense 64→32→1) with MAE loss and EarlyStopping. Served via a dark-themed Streamlit UI with live salary prediction.
 
 - 🚗🏍️ **VehicleAI – Multi-Vehicle Price Predictor (Car, Bike & EV)** – Flask-based ML web app predicting resale prices for used cars and bikes, and market prices for new EVs. Features 3 separate ML models, a Fair Price Checker (compares asking price vs. predicted fair price), and a Budget Finder that filters real dataset records. Uses Label Encoding, Mean Encoding, StandardScaler, and saved preprocessors. Deployed with a clean custom CSS frontend.
 
@@ -132,6 +138,12 @@
 
 ---
 
+### 📈 Crypto & Finance Projects
+
+- 📈 **Crypto Price Predictor** – Streamlit web app for cryptocurrency price prediction supporting Bitcoin, Ethereum, Solana, Dogecoin, BNB, XRP, Cardano, and Polygon. Downloads live price data from Yahoo Finance, runs volatility analysis (daily returns, 7-day and 30-day rolling std, risk level), fetches latest news and runs VADER sentiment analysis on headlines. Supports 4 forecasting models — ARIMA (auto-tuned via AIC), SARIMA (weekly seasonality), Prophet (with trend/seasonality breakdown), and LSTM (60-day lookback, ~2–3 min training). Evaluates all models with MAE, RMSE, and MAPE on a held-out test set.
+
+---
+
 ### 🕷️ Web Scraping Projects
 
 - 📚 **Books to Scrape — Full Catalogue Scraper** – Scrapes all 1000 books across 50 pages from books.toscrape.com, extracting book name, price, star rating, stock availability, book description, image URL, and individual book page link. Key techniques: extracting data from HTML attributes (`alt`, `src`, `href`), reading star ratings encoded as CSS class names, fixing broken relative URLs using `urljoin`, following links to individual book pages for deeper data, fixing encoding issues with `response.encoding = 'utf-8'`, cleaning trailing junk text with string splitting, and adding new columns directly to an existing DataFrame. Tech stack: requests, BeautifulSoup, pandas, lxml, urllib.parse.
@@ -168,6 +180,9 @@
 
 ### **AI & ML**
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189C4B?style=flat&logo=python&logoColor=white)
 ![DeepFace](https://img.shields.io/badge/DeepFace-FF6F00?style=flat&logo=python&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat&logo=google&logoColor=white)
 ![GPT API](https://img.shields.io/badge/GPT%20API-412991?style=flat&logo=openai&logoColor=white)
@@ -228,6 +243,15 @@
 ![Gensim](https://img.shields.io/badge/Gensim-3776AB?style=flat)
 ![Word2Vec](https://img.shields.io/badge/Word2Vec-FF6F00?style=flat)
 ![TF--IDF](https://img.shields.io/badge/TF--IDF-4A90E2?style=flat)
+![VADER](https://img.shields.io/badge/VADER-6DB33F?style=flat)
+
+---
+
+### **Deep Learning**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![LSTM](https://img.shields.io/badge/LSTM-412991?style=flat)
+![ANN](https://img.shields.io/badge/ANN-FF4081?style=flat)
 
 ---
 
@@ -245,6 +269,8 @@
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat)
 ![ReportLab](https://img.shields.io/badge/ReportLab-000000?style=flat)
+![Prophet](https://img.shields.io/badge/Prophet-0064A5?style=flat)
+![yfinance](https://img.shields.io/badge/yfinance-1B6CA8?style=flat)
 
 ---
 
