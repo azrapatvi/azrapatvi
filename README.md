@@ -1,276 +1,266 @@
-# Hi 👋, I'm Azra Patvi
+<h1 align="center">Hi 👋, I'm Azra Patvi</h1>
+<h3 align="center">B.Tech AI & Data Science · Machine Learning · Full-Stack Development · Data Analytics</h3>
 
-### B.Tech in AI & Data Science | Data Analyst | Data Scientist | Machine Learning Engineer | Full-Stack Developer
+<p align="center">
+  <a href="mailto:azrapatvi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/azra-patvi-5ba33a31b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/azrapatvi"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://azra-web-solutions.netlify.app/"><img src="https://img.shields.io/badge/Web%20Solutions-000000?style=flat&logo=netlify&logoColor=white"/></a>
+</p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science** at **Loknete Shamrao Peje Government College of Engineering**
-- 📜 Completed **Diploma in Computer Engineering** with strong academic performance
+
+- 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science** at Loknete Shamrao Peje Government College of Engineering
+- 📜 Completed **Diploma in Computer Engineering**
 - 💼 Hands-on experience through internships in **Frontend Development, Data Analysis, and AI-based applications**
-- 📊 Strong focus on **data-driven decision making, dashboards, and predictive modeling**
-- 💡 Passionate about building **scalable, real-world solutions using AI, ML, and Analytics**
+- 💡 Passionate about building **scalable, real-world solutions** across AI, ML, and Full-Stack development
+- 🌍 Based in **Maharashtra, India**
 
 ---
 
-# 🔥 Featured Project
-## 🤖 AI Interviewer – Real-Time AI-Powered Virtual Interview Platform
+## 🔥 Featured Projects
 
-> Built using **FastAPI, DeepFace, Google Gemini API, MongoDB, ReportLab, and OpenCV**
-
-🔥 A full-stack AI platform that:
-- Verifies candidate identity using face recognition
-- Conducts AI-driven interviews in real time
-- Analyzes answers using LLMs
-- Generates automated interview reports
-
-💡 **Business Impact:** Automates the hiring screening process and reduces manual interviewer effort.
+### 🤖 AI-Based Virtual Interviewer *(FastAPI · DeepFace · Gemini · MongoDB · OpenCV)*
+> An end-to-end AI hiring platform that verifies candidate identity via face recognition, conducts AI-driven interviews in real time, evaluates answers using LLMs, and auto-generates interview reports.
+- **Impact:** Fully automates the hiring screening process — zero manual interviewer effort
+- **Stack:** FastAPI · DeepFace · Google Gemini API · MongoDB · OpenCV · ReportLab
 
 ---
 
-## 💻 Projects
-
-### 🤖 AI Projects
-
-- 🪪 **AI-Based Virtual Interviewer (FastAPI)** – End-to-end AI hiring platform with face verification, real-time AI interviews, LLM-based answer evaluation and automated report generation. Built using FastAPI, DeepFace, Google Gemini API, MongoDB, OpenCV and ReportLab.
-
-- 🧑‍🤝‍🧑 **Face Recognition Attendance System** – Automated attendance using real-time face recognition. Eliminates manual attendance process entirely.
-
-- 🎬 **VidSnap AI Real Generator** – Generates narrated videos from images and prompts using AI.
-
-- 🔮 **LSTM-based Next-Word Prediction Model** – Sequence modeling for language prediction using deep learning.
-
-- 🥘 **Recipe Generator Web App (GPT API)** – AI-based recipe generation from user ingredients using GPT API.
-
-- 🤖 **Gemini Streamlit Chatbot** – Conversational AI chatbot using Google Gemini API.
-
-- 🎨 **Image Generator Web App (DALL·E)** – Text-to-image generation using generative AI.
-
-- 🤖 **Telegram Bot (GPT API)** – AI-powered Telegram bot for automated responses.
+### 🎬 Movie Recommendation System *(Streamlit · Cosine Similarity · TMDB API)*
+> Content-based recommendation engine that suggests 5 similar movies with live posters fetched from the TMDB API. Built an NLP pipeline: tag extraction → stemming → CountVectorizer → cosine similarity on 4,803 movies.
+- **Stack:** Python · Scikit-learn · NLTK · Streamlit · joblib · TMDB API
 
 ---
 
-### 🤖 Machine Learning & Prediction Projects
-
-- 🎬 **TMDB Movie Revenue Predictor** – Predicts box office revenue for movies using the TMDB dataset (top 8,000 movies filtered by vote count, revenue > $1M, budget > $100K). Full pipeline: data ingestion, feature engineering (genre OHE, language count, log-transform on target), preprocessing via ColumnTransformer, 7 model comparison (Linear Regression, Random Forest, XGBoost, Gradient Boosting, AdaBoost, Decision Tree, KNeighbors), and hyperparameter tuning using RandomizedSearchCV. Best model: GradientBoostingRegressor (Test R²: 0.510, RMSE: ~$144M). Tech stack: Python, scikit-learn, XGBoost, Google Colab.
-
-- 🛒 **Walmart Sales Prediction** – End-to-end sales forecasting on 6,435 rows of real Walmart store data (45 stores, 2010–2012). Includes EDA, feature engineering (lag features, temp/fuel groups, month/year extraction), 6 ML models with hyperparameter tuning using RandomizedSearchCV, STL decomposition, stationarity testing (ADF), ARIMA, SARIMA and Prophet with cross validation. Best ML model: RandomForest (R²: 0.9293). Best time series model: Prophet. Saved deployable model using Pickle.
-
-- 🎓 **Student Exam Performance Indicator** – Flask-based ML web app that predicts a student's Math Score. Trains 10 models (Linear Regression, Ridge, Lasso, KNN, Decision Tree, Random Forest, AdaBoost, Gradient Boosting, XGBoost, CatBoost) with RandomizedSearchCV and auto-selects the best model by R². Full production-grade ML pipeline with data ingestion, transformation and prediction components.
-
-- 📊 **Customer Churn Prediction Web App** – End-to-end ML system to predict customer churn using Random Forest with SMOTE for class imbalance handling, probability score output, saved encoders/models and real-time predictions via Streamlit. Clear business impact on customer retention strategies.
-
-- 🧠 **Bank Churn ANN Classifier** – Binary classification ANN built with TensorFlow/Keras to predict whether a bank customer will churn, trained on 10,000 records. Full pipeline: Label Encoding + OneHotEncoder + StandardScaler via ColumnTransformer, ANN with Dropout and L2 regularization, EarlyStopping, TensorBoard, and GridSearchCV hyperparameter tuning over neurons, layers, and epochs using scikeras. Saved model and preprocessor artifacts for inference.
-
-- 💎 **Salary Oracle – Customer Salary Prediction with ANN** – ANN regression model (TensorFlow/Keras) that predicts a bank customer's estimated salary from 9 input attributes. Pipeline: Label Encoding, OneHotEncoder, StandardScaler via ColumnTransformer; 3-layer feedforward ANN (Dense 64→32→1) with MAE loss and EarlyStopping. Served via a dark-themed Streamlit UI with live salary prediction.
-
-- 🚗🏍️ **VehicleAI – Multi-Vehicle Price Predictor (Car, Bike & EV)** – Flask-based ML web app predicting resale prices for used cars and bikes, and market prices for new EVs. Features 3 separate ML models, a Fair Price Checker (compares asking price vs. predicted fair price), and a Budget Finder that filters real dataset records. Uses Label Encoding, Mean Encoding, StandardScaler, and saved preprocessors. Deployed with a clean custom CSS frontend.
-
-- 🛡️ **Text Harassment Classifier** – ML web app that detects whether a social media comment is harassment or normal. Built with Logistic Regression, TF-IDF (unigrams + bigrams), and Streamlit. Trained on 6,075 cleaned comments from Facebook, TikTok, YouTube, and Instagram. Tuned with GridSearchCV (5-fold, F1 scoring). Accuracy: 86.67%, F1: 88%. Outputs prediction with confidence score.
-
-- 📚 **Kindle Review Sentiment Analyser** – NLP-based sentiment classifier for Amazon Kindle book reviews using Multinomial Naive Bayes and TF-IDF (unigrams + bigrams, top 5000 features). Full NLP pipeline: URL/HTML removal, POS tagging, WordNet lemmatization, SMOTE for class imbalance. ~90% accuracy, precision, and recall. Deployed as a Streamlit web app with saved model bundle (Joblib).
-
-- 💬 **SMS Spam Classifier using Word2Vec** – Classifies SMS messages as Spam or Ham using Word2Vec embeddings and ensemble ML models. Trained Word2Vec on cleaned SMS corpus (100-dim vectors), used average word vectors as sentence representations. Compared Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, and XGBoost. Final model: tuned Random Forest via RandomizedSearchCV. Includes full preprocessing pipeline with lemmatization and stopword removal.
-
-- 🎯 **Customer Support Ticket Analysis & Satisfaction Prediction** – End-to-end data analysis and ML classification project on customer support tickets. Identifies complaint patterns, support efficiency, and product-related issues. Predicts customer satisfaction rating using GradientBoostingClassifier (tuned via RandomizedSearchCV). Feature engineering includes mean encoding for product and ticket subject, StandardScaler, and OneHotEncoder via ColumnTransformer.
-
-- 💰 **Sales Profit Prediction** – End-to-end EDA and ML regression project on 113,036 rows of global sales data. Trained and compared Linear Regression, Decision Tree, and Gradient Boosting. Tuned GradientBoostingRegressor via GridSearchCV (5-fold CV, R²: 0.9855). Final model: MAE 16.45, RMSE 30.99, R²: 0.9953. Deployed as a Streamlit web app with full input form and ±50 expected profit range output.
-
-- 📈 **Stock Forecasting Dashboard** – Time-series forecasting using ARIMA, LSTM and Prophet models to analyze historical trends and predict future stock prices through an interactive dashboard.
-
-- 📈 **Tesla Stock Price Forecasting using Prophet** – Stock price forecasting for Tesla (TSLA) using Facebook Prophet on daily data from Yahoo Finance. Includes data collection via yfinance, preprocessing, model training, future predictions and actual vs predicted visualization. Evaluates model strengths and limitations on volatile financial data.
-
-- ⏱️ **Time Series Forecasting with ARIMA, SARIMA & Prophet** – Comprehensive comparison of three forecasting models on monthly champagne sales data. Includes stationarity checks using ADF test, differencing, ACF & PACF analysis, model training and forecast visualization across all three approaches.
-
-- 🧳 **Travel Package Purchase Prediction** – Classification model to predict travel package purchase (0/1). Complete ML pipeline with data cleaning, feature engineering, EDA, ColumnTransformer preprocessing, model training (Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, AdaBoost), hyperparameter tuning using RandomizedSearchCV and probability-based predictions.
-
-- 🔥 **Algerian Forest Fire Prediction** – FWI prediction using meteorological features. Includes preprocessing, EDA, feature selection, model training and deployment via a Flask web application for real-time fire risk assessment.
-
-- 🚗 **Car Price Prediction Web App** – Regression-based ML project with structured preprocessing and encoding strategy. Model evaluation using R², MAE and MSE. Deployed on Streamlit with price output in INR.
-
-- 💻 **Laptop Price Prediction App** – Predicts laptop prices based on processor speed, RAM and storage using a pre-trained regression model. Deployed on Streamlit with real-time inference.
-
-- 🌸 **Iris Flower Classification** – Random Forest classifier deployed on Streamlit to predict Iris species based on sepal and petal measurements.
+### 📈 Crypto Price Predictor *(ARIMA · SARIMA · Prophet · LSTM · VADER)*
+> Full Streamlit app supporting 8 cryptocurrencies. Downloads live data from Yahoo Finance, runs volatility analysis, fetches real-time news, runs VADER sentiment scoring, and forecasts prices up to 2 years out using 4 ML/DL models with MAE/RMSE/MAPE evaluation.
+- **Stack:** Python · statsmodels · Prophet · TensorFlow · yfinance · NewsAPI · VADER
 
 ---
 
-### 📊 Data Analysis & EDA Projects
-
-- 🎬 **Movies Dataset EDA on Databricks (Apache Spark + PySpark + Spark SQL)** – End-to-end exploratory data analysis on a movies dataset using Databricks and Apache Spark. Covers industry/language/studio analysis, revenue and profit analysis, IMDb rating trends, CASE WHEN rating classification (HIT / AVERAGE / FLOP), DENSE_RANK() window functions partitioned by industry, and ROI calculation. Built using both PySpark DataFrame API and Spark SQL on a Unity Catalog Delta table. Demonstrates big data tooling experience.
-
-- 💳 **Credit Card Customer & Transaction Analysis (MySQL + Power BI)** – Customer demographics, transaction trends and revenue KPI analysis.
-
-- 🛒 **Ecommerce Sales Analysis (EDA + Power BI)** – Business-focused sales, profit, discount impact and regional performance analysis using interactive dashboards.
-
-- 🛍️ **Walmart Sales Analysis (Python + SQL)** – End-to-end transaction, rating, time-based and profitability analysis using advanced SQL queries.
-
-- 🏥 **Hospital Management Dashboard (Power BI)** – Admissions, waiting time, satisfaction scores, referrals and demographic analytics.
-
-- 📊 **Chat With Your Data (AI-Powered EDA Tool)** – Natural-language dataset exploration with automated visual insights.
-
-- 🚘 **Uber Analytics Dashboard (Power BI)** – Revenue trends, demand patterns and customer behavior insights with interactive filters.
-
-- 🟢 **UPI Transaction Dashboard (Power BI)** – Bank-wise transaction trends, success rates and customer usage analysis.
-
-- 🍕 **Pizza Sales Analysis (SQL + Python + Power BI)** – Sales trends, customer behavior and category & size performance insights.
-
-- 📦 **Amazon Sales Dashboard (Power BI)** – Order trends, cancellations, category performance and payment method insights.
-
-- 📉 **Customer Churn Analysis (EDA)** – Identified key churn drivers such as tenure, contract type, services and payment methods to support retention strategies.
-
-- 🟣 **Insurance Policy Analysis Dashboard (Power BI)** – Policy status, premium types, claims distribution and age-wise coverage insights.
-
-- 💬 **WhatsApp Chat Analyzer (Streamlit App)** – Message statistics, emoji usage, timelines, word clouds and activity heatmaps.
-
-- 🛒 **Blinkit Sales Dashboard (Power BI + Python)** – Outlet-wise performance, item-type comparison and sales trend analysis.
-
-- 🐦 **Twitter Analytics Project (Python + Power BI)** – Twitter data preprocessing and visualization for engagement and trend insights.
-
-- 🪔 **Diwali Sales Data Analysis (Python EDA)** – Festival-season customer segmentation and purchasing behavior analysis.
-
-- ✈️ **Flight Price Analysis (EDA)** – Analysis of airline, route, stops and journey date effects on ticket prices.
-
-- 🎓 **Student Performance Analysis (Python EDA)** – Visual exploration of academic performance and influencing factors.
-
-- 📱 **Google Play Store Apps Analysis (EDA)** – App category, rating, install and pricing trend analysis.
-
-- 🍷 **Red Wine Quality Analysis (EDA)** – Physicochemical feature analysis and wine quality relationships.
+### 🛒 Walmart Sales Prediction *(RandomForest · Prophet · ARIMA · SARIMA)*
+> End-to-end forecasting project on 6,435 rows of real Walmart store data. Includes lag features, STL decomposition, stationarity testing (ADF), and cross-validation. Best ML model: RandomForest (R²: 0.9293). Best time series model: Prophet.
+- **Stack:** Python · Scikit-learn · Prophet · statsmodels · Pickle
 
 ---
 
-### 📈 Crypto & Finance Projects
-
-- 📈 **Crypto Price Predictor** – Streamlit web app for cryptocurrency price prediction supporting Bitcoin, Ethereum, Solana, Dogecoin, BNB, XRP, Cardano, and Polygon. Downloads live price data from Yahoo Finance, runs volatility analysis (daily returns, 7-day and 30-day rolling std, risk level), fetches latest news and runs VADER sentiment analysis on headlines. Supports 4 forecasting models — ARIMA (auto-tuned via AIC), SARIMA (weekly seasonality), Prophet (with trend/seasonality breakdown), and LSTM (60-day lookback, ~2–3 min training). Evaluates all models with MAE, RMSE, and MAPE on a held-out test set.
-
----
-
-### 🕷️ Web Scraping Projects
-
-- 📚 **Books to Scrape — Full Catalogue Scraper** – Scrapes all 1000 books across 50 pages from books.toscrape.com, extracting book name, price, star rating, stock availability, book description, image URL, and individual book page link. Key techniques: extracting data from HTML attributes (`alt`, `src`, `href`), reading star ratings encoded as CSS class names, fixing broken relative URLs using `urljoin`, following links to individual book pages for deeper data, fixing encoding issues with `response.encoding = 'utf-8'`, cleaning trailing junk text with string splitting, and adding new columns directly to an existing DataFrame. Tech stack: requests, BeautifulSoup, pandas, lxml, urllib.parse.
-
-- 🛒 **Amazon Beauty Products Scraper** – Multi-page scraper for Amazon India beauty product listings extracting product name, rating, and price. Handles Amazon's strict bot detection with a full header bundle, extracts product titles from `aria-label` attributes, filters out sponsored listings using `data-component-type`, maintains list alignment with None fallbacks, and saves results to CSV using `pd.concat`. Tech stack: requests, BeautifulSoup, pandas, lxml.
-
-- 🏢 **AmbitionBox Company Scraper** – Scrapes company listings from AmbitionBox extracting company name, rating, industry type, location, review count, and salary count. Handles 403 errors with User-Agent headers, uses conditional label-based extraction, and includes multi-page scraping with loop-based pagination. Tech stack: requests, BeautifulSoup, pandas, lxml.
+### 🎬 TMDB Movie Revenue Predictor *(GradientBoosting · XGBoost · RandomizedSearchCV)*
+> Revenue prediction pipeline on 8,000 TMDB movies. Full feature engineering: genre OHE, language count, log-transform on target, ColumnTransformer, 7-model comparison, and hyperparameter tuning. Best: GradientBoostingRegressor (Test R²: 0.510, RMSE: ~$144M).
+- **Stack:** Python · Scikit-learn · XGBoost · Google Colab
 
 ---
 
-### 🌐 Web Development Projects
+### 🎓 Student Exam Performance Indicator *(Flask · 10-Model Pipeline · Auto-Select)*
+> Production-grade ML Flask web app predicting Math Scores. Trains 10 models (Linear Regression, Ridge, Lasso, KNN, Decision Tree, Random Forest, AdaBoost, GradientBoosting, XGBoost, CatBoost) with RandomizedSearchCV and auto-selects the best by R².
+- **Stack:** Python · Flask · Scikit-learn · CatBoost · XGBoost
 
-- 🌍 **Warmer Bakes & Cakes** – Full stack web app for a home bakery with online menu, WhatsApp ordering, photo gallery and complete admin panel. Built with Python, Flask, MongoDB, Cloudinary. Deployed on Railway. [Live](https://www.warmerbakesncakes.com)
+---
 
-- 🌍 **CoolAir Pro (AC Technician)** – Full stack web app with dual role login, online service booking, booking tracking and admin dashboard with stats. Built with Python, Flask, MySQL. Deployed on PythonAnywhere. [Live](https://suhelshah.pythonanywhere.com)
+### 📊 Customer Churn Prediction *(Random Forest · SMOTE · Streamlit)*
+> End-to-end churn prediction system with SMOTE for class imbalance, probability score output, and real-time predictions via Streamlit.
+- **Stack:** Python · Scikit-learn · imbalanced-learn · Streamlit
 
-- 🌍 **Shah Industries** – Full multi-page informational website for a scrap buying business. Responsive design, Google Maps embed, contact form. Deployed on Netlify. [Live](https://ratnagiri-scrap.netlify.app)
+---
 
-- 📒 **Khata Plus App** – Tracks unpaid amounts. Built with Flask, Python.
+### 🧠 Bank Churn ANN Classifier *(TensorFlow · Keras · GridSearchCV)*
+> Binary classification ANN on 10,000 bank records. Full pipeline: Label Encoding + OneHotEncoder + StandardScaler via ColumnTransformer, Dropout + L2 regularization, EarlyStopping, TensorBoard, and GridSearchCV over neurons, layers, and epochs via scikeras.
+- **Stack:** Python · TensorFlow · Keras · scikeras · Scikit-learn
 
-- 💰 **Expense Tracker** – Built with Flask, Python.
+---
 
+### 💎 Salary Oracle — ANN Regression *(TensorFlow · Streamlit)*
+> Predicts bank customer salary from 9 input attributes. 3-layer feedforward ANN (Dense 64→32→1), MAE loss, EarlyStopping. Served via a dark-themed Streamlit UI.
+- **Stack:** Python · TensorFlow · Keras · Streamlit
+
+---
+
+### 🚗🏍️ VehicleAI — Multi-Vehicle Price Predictor *(Flask · 3 ML Models)*
+> Predicts resale prices for used cars and bikes, and market prices for new EVs. Features a Fair Price Checker and Budget Finder. Deployed with custom CSS frontend.
+- **Stack:** Python · Flask · Scikit-learn · Label Encoding · Mean Encoding
+
+---
+
+### 🛡️ Text Harassment Classifier *(Logistic Regression · TF-IDF · Streamlit)*
+> Detects harassment in social media comments. Trained on 6,075 comments from 4 platforms. Tuned with GridSearchCV (5-fold, F1 scoring). Accuracy: 86.67%, F1: 88%.
+- **Stack:** Python · Scikit-learn · NLTK · Streamlit
+
+---
+
+### 📚 Kindle Review Sentiment Analyser *(Naive Bayes · TF-IDF · SMOTE)*
+> NLP sentiment classifier for Amazon Kindle reviews. Full pipeline: URL/HTML removal, POS tagging, WordNet lemmatization, SMOTE for imbalance. ~90% accuracy. Deployed as Streamlit app.
+- **Stack:** Python · Scikit-learn · NLTK · Streamlit · joblib
+
+---
+
+### 💬 SMS Spam Classifier using Word2Vec *(Word2Vec · Random Forest)*
+> Classifies SMS as Spam/Ham using Word2Vec embeddings (100-dim vectors). Compared LR, DT, RF, GB, XGBoost. Final model: tuned Random Forest via RandomizedSearchCV.
+- **Stack:** Python · Gensim · Scikit-learn · XGBoost
+
+---
+
+### 🔥 Algerian Forest Fire Prediction *(Flask · ML Pipeline)*
+> FWI prediction from meteorological features with preprocessing, EDA, feature selection, model training, and deployment via Flask for real-time fire risk assessment.
+- **Stack:** Python · Flask · Scikit-learn
+
+---
+
+### 💰 Sales Profit Prediction *(GradientBoosting · Streamlit)*
+> Regression project on 113,036 rows of global sales data. GradientBoostingRegressor tuned via GridSearchCV (R²: 0.9855). Final: MAE 16.45, RMSE 30.99, R² 0.9953.
+- **Stack:** Python · Scikit-learn · Streamlit
+
+---
+
+### 📈 Stock Forecasting Dashboard *(ARIMA · LSTM · Prophet)*
+> Interactive dashboard forecasting future stock prices using three models, with historical trend analysis and visualizations.
+- **Stack:** Python · statsmodels · TensorFlow · Prophet
+
+---
+
+### 🧳 Travel Package Purchase Prediction *(Classification · RandomizedSearchCV)*
+> ML pipeline predicting travel package purchase. Includes ColumnTransformer preprocessing, 5 classifier comparison, hyperparameter tuning, and probability-based predictions.
+- **Stack:** Python · Scikit-learn
+
+---
+
+## 🤖 AI Content Moderation Pipeline
+
+### 🖼️ Image Content Moderation *(EfficientNetB0 · OpenCV · Streamlit)*
+> Deep learning pipeline for automated image content moderation (SAFE / HARD_NEG / VIOLENCE). Built end-to-end: Unsplash API scraping → Streamlit-based manual cleaning UI → OpenCV preprocessing (resize 224×224, brightness, sharpening) → EfficientNetB0 training with EarlyStopping.
+- **Stack:** Python · TensorFlow · Keras · OpenCV · Streamlit · Unsplash API
+
+### 🧠 Image Classifier with CNN *(Custom CNN · Data Augmentation · Colab)*
+> Auto-downloads 300 images/class from Unsplash, preprocesses with OpenCV, and trains a custom CNN (Conv2D → MaxPool × 3 → Dense → Dropout → Softmax) across 5 classes with data augmentation and EarlyStopping.
+- **Stack:** Python · TensorFlow · Keras · OpenCV · Colab
+
+### 🔍 EfficientNet Image Classification *(B0 / B1 / B7 · ImageNet)*
+> Demonstrates pretrained EfficientNet variants (B0, B1, B7) on ImageNet weights for image classification with top-3 prediction decoding. Built as a learning reference for CNN architecture understanding.
+- **Stack:** Python · TensorFlow · Keras · OpenCV
+
+### 🗂️ Image Scrape & Clean Pipeline *(Unsplash API · Streamlit · MD5 Dedup)*
+> Beginner-friendly modular pipeline to scrape, review, label, and process image datasets. Features MD5-based deduplication across sessions, Streamlit review UI, category labeling, and OpenCV preprocessing.
+- **Stack:** Python · Streamlit · OpenCV · Unsplash API
+
+---
+
+## 🔮 NLP & Sequence Models
+
+### 🎭 Shakespeare Next Word Predictor *(LSTM · GRU · Streamlit)*
+> Next-word prediction web app trained on Shakespeare's Hamlet using LSTM and GRU. Tokenizes input, pads sequences, and samples from the model's probability distribution.
+- **Stack:** Python · TensorFlow · Keras · Streamlit
+
+### 🔮 LSTM-based Next-Word Prediction Model
+> Sequence modeling for language prediction using deep learning.
+- **Stack:** Python · TensorFlow · Keras
+
+---
+
+## 🌐 Full-Stack Web Development
+
+### 🍰 Warmer Bakes & Cakes *(Flask · MongoDB · Cloudinary · Railway)*
+> Full-stack web app for a home bakery with online menu, WhatsApp ordering, photo gallery, and complete admin panel. **Live:** [warmerbakesncakes.com](https://www.warmerbakesncakes.com)
+- **Stack:** Python · Flask · MongoDB · Cloudinary · Railway
+
+### 🌡️ CoolAir Pro *(Flask · MySQL · PythonAnywhere)*
+> Dual-role login web app for AC technician services with online booking, tracking, and admin dashboard with stats. **Live:** [suhelshah.pythonanywhere.com](https://suhelshah.pythonanywhere.com)
+- **Stack:** Python · Flask · MySQL · PythonAnywhere
+
+### 🏭 Shah Industries *(HTML · CSS · Netlify)*
+> Multi-page informational website for a scrap business with responsive design, Google Maps, and contact form. **Live:** [ratnagiri-scrap.netlify.app](https://ratnagiri-scrap.netlify.app)
+
+### 💼 Azra Web Solutions *(Landing Page · Netlify)*
+> Professional landing page offering website development services for small businesses. **Live:** [azra-web-solutions.netlify.app](https://azra-web-solutions.netlify.app)
+
+### Other Web Projects
+- 📒 **Khata Plus App** — Tracks unpaid amounts · Flask
+- 💰 **Expense Tracker** · Flask
 - 🏥 **Hospital Management System**
-
 - ☕ **Café & Blizz System**
-
 - 🛒 **E-commerce Website**
-
 - ✅ **To-Do List App**
+
+---
+
+## 📊 Data Analysis & Dashboards
+
+| Project | Tools |
+|---|---|
+| Movies Dataset EDA (Apache Spark + Databricks) | PySpark · Spark SQL · Delta Table |
+| Credit Card Customer & Transaction Analysis | MySQL · Power BI |
+| Ecommerce Sales Analysis | Python · Power BI |
+| Walmart Sales Analysis | Python · SQL |
+| Hospital Management Dashboard | Power BI |
+| Uber Analytics Dashboard | Power BI |
+| UPI Transaction Dashboard | Power BI |
+| Amazon Sales Dashboard | Power BI |
+| Blinkit Sales Dashboard | Power BI · Python |
+| Pizza Sales Analysis | SQL · Python · Power BI |
+| Twitter Analytics | Python · Power BI |
+| WhatsApp Chat Analyzer | Streamlit |
+| Customer Churn Analysis (EDA) | Python |
+| Insurance Policy Analysis | Power BI |
+| Diwali Sales Data Analysis | Python |
+| Flight Price Analysis | Python |
+| Student Performance Analysis | Python |
+| Google Play Store Analysis | Python |
+| Red Wine Quality Analysis | Python |
+| Chat With Your Data (AI EDA Tool) | Python · LLM |
+
+---
+
+## 📈 Crypto & Finance
+
+### 📊 Crypto Price Predictor *(Full App — see Featured above)*
+
+### 📈 Tesla Stock Forecasting *(Prophet · yfinance)*
+> Daily TSLA forecasting using Facebook Prophet on Yahoo Finance data. Includes data collection, preprocessing, model training, and actual vs. predicted visualization.
+
+### ⏱️ Time Series Forecasting Comparison *(ARIMA · SARIMA · Prophet)*
+> Comprehensive model comparison on monthly champagne sales. ADF test, differencing, ACF/PACF analysis, and forecast visualization across all three models.
+
+---
+
+## 🕷️ Web Scraping
+
+| Project | Stack |
+|---|---|
+| Books to Scrape — Full Catalogue (1,000 books, 50 pages) | requests · BeautifulSoup · pandas |
+| Amazon Beauty Products Scraper | requests · BeautifulSoup · pandas |
+| AmbitionBox Company Scraper | requests · BeautifulSoup · pandas |
+| Unsplash Image Search Notebook | requests · IPython |
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **AI & ML**
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189C4B?style=flat&logo=python&logoColor=white)
-![DeepFace](https://img.shields.io/badge/DeepFace-FF6F00?style=flat&logo=python&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat&logo=google&logoColor=white)
-![GPT API](https://img.shields.io/badge/GPT%20API-412991?style=flat&logo=openai&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-FF4081?style=flat)
+**AI & ML**
+`Scikit-learn` `TensorFlow` `Keras` `XGBoost` `CatBoost` `DeepFace` `Gemini API` `GPT API` `OpenCV`
 
----
+**Data & Analytics**
+`Power BI` `Tableau` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Excel`
 
-### **Data Tools & Analytics**
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-![Seaborn](https://img.shields.io/badge/Seaborn-4A90E2?style=flat)
+**NLP**
+`NLTK` `Gensim` `Word2Vec` `TF-IDF` `VADER` `spaCy`
 
----
+**Deep Learning**
+`LSTM` `GRU` `ANN` `CNN` `EfficientNet` `TensorBoard`
 
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+**Big Data**
+`Apache Spark` `PySpark` `Spark SQL` `Databricks`
 
----
+**Languages**
+`Python` `SQL` `JavaScript` `HTML5` `CSS3` `C` `C++` `Java` `R`
 
-### **Frameworks & Tools**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat)
-![AJAX](https://img.shields.io/badge/AJAX-0064A5?style=flat)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat)
+**Frameworks**
+`FastAPI` `Flask` `Streamlit` `Bootstrap`
 
----
+**Databases**
+`MongoDB` `MySQL` `SQLite`
 
-### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat)
-
----
-
-### **Big Data**
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-
----
-
-### **NLP**
-![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat)
-![Gensim](https://img.shields.io/badge/Gensim-3776AB?style=flat)
-![Word2Vec](https://img.shields.io/badge/Word2Vec-FF6F00?style=flat)
-![TF--IDF](https://img.shields.io/badge/TF--IDF-4A90E2?style=flat)
-![VADER](https://img.shields.io/badge/VADER-6DB33F?style=flat)
-
----
-
-### **Deep Learning**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![LSTM](https://img.shields.io/badge/LSTM-412991?style=flat)
-![ANN](https://img.shields.io/badge/ANN-FF4081?style=flat)
-
----
-
-### **Cloud (Familiar)**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat)
-
----
-
-### **Others**
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat)
-![ReportLab](https://img.shields.io/badge/ReportLab-000000?style=flat)
-![Prophet](https://img.shields.io/badge/Prophet-0064A5?style=flat)
-![yfinance](https://img.shields.io/badge/yfinance-1B6CA8?style=flat)
+**Cloud & Tools**
+`AWS` `Azure` `Snowflake` `GitHub` `Jupyter` `Google Colab` `VS Code`
 
 ---
 
@@ -290,13 +280,8 @@
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="mailto:azrapatvi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/azra-patvi-5ba33a31b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/azrapatvi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  </a>
+  <a href="mailto:azrapatvi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/azra-patvi-5ba33a31b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/azrapatvi"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://azra-web-solutions.netlify.app/"><img src="https://img.shields.io/badge/Web%20Solutions-000000?style=flat&logo=netlify&logoColor=white"/></a>
 </p>
