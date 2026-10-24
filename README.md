@@ -1,287 +1,207 @@
-<h1 align="center">Hi 👋, I'm Azra Patvi</h1>
-<h3 align="center">B.Tech AI & Data Science · Machine Learning · Full-Stack Development · Data Analytics</h3>
+<!-- Animated header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=AI%20%26%20Data%20Science&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Generative%20AI%20%C2%B7%20Healthcare%20AI%20%C2%B7%20Computer%20Vision%20%C2%B7%20Full-Stack&descAlignY=60&descSize=17" width="100%"/>
+</p>
+
+<!-- Typing animation -->
+<p align="center">
+  <a href="https://github.com/azrapatvi">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=760&lines=I+build+AI+apps+that+ship+%F0%9F%9A%80;LLM+agents+%C2%B7+RAG+%C2%B7+Computer+Vision+%C2%B7+ML;AI+that+reads+scans%2C+videos%2C+PDFs+and+faces;Open+to+internships+and+AI%2FML+roles" alt="Typing animation" />
+  </a>
+</p>
 
 <p align="center">
-  <a href="mailto:azrapatvi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/azra-patvi-5ba33a31b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/azrapatvi"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-  <a href="https://azra-web-solutions.netlify.app/"><img src="https://img.shields.io/badge/Web%20Solutions-000000?style=flat&logo=netlify&logoColor=white"/></a>
+  <a href="mailto:azrapatvi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/azra-patvi-5ba33a31b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://azra-web-solutions.netlify.app/"><img src="https://img.shields.io/badge/Web%20Solutions-000000?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=azrapatvi&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-- 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science** at Loknete Shamrao Peje Government College of Engineering
-- 📜 Completed **Diploma in Computer Engineering**
-- 💼 Hands-on experience through internships in **Frontend Development, Data Analysis, and AI-based applications**
-- 💡 Passionate about building **scalable, real-world solutions** across AI, ML, and Full-Stack development
-- 🌍 Based in **Maharashtra, India**
-
----
-
-## 🔥 Featured Projects
-
-### 🤖 AI-Based Virtual Interviewer *(FastAPI · DeepFace · Gemini · MongoDB · OpenCV)*
-> An end-to-end AI hiring platform that verifies candidate identity via face recognition, conducts AI-driven interviews in real time, evaluates answers using LLMs, and auto-generates interview reports.
-- **Impact:** Fully automates the hiring screening process — zero manual interviewer effort
-- **Stack:** FastAPI · DeepFace · Google Gemini API · MongoDB · OpenCV · ReportLab
+- 🎓 **B.Tech in AI & Data Science** at Loknete Shamrao Peje Government College of Engineering
+- 🧠 Building with **LLM agents, RAG, LangChain, LangGraph** and deep learning
+- 🩺 Applying AI to **healthcare** (scan screening), **vision** (YOLO, CNNs) and **business** (forecasting, prediction)
+- 🌐 Shipping **real, deployed products** for real clients (Flask, FastAPI, Streamlit)
+- 💼 Internship experience in **Frontend, Data Analysis and AI applications**
+- 📦 **100+ public repositories** · 📍 Maharashtra, India
 
 ---
 
-### 🎬 Movie Recommendation System *(Streamlit · Cosine Similarity · TMDB API)*
-> Content-based recommendation engine that suggests 5 similar movies with live posters fetched from the TMDB API. Built an NLP pipeline: tag extraction → stemming → CountVectorizer → cosine similarity on 4,803 movies.
-- **Stack:** Python · Scikit-learn · NLTK · Streamlit · joblib · TMDB API
+## ⚡ Highlights
+
+| 🤖 GenAI Apps | 🩺 Medical AI Models | 🧪 ML / DL Projects | 🌍 Live Sites & Demos | 📊 Dashboards |
+|:---:|:---:|:---:|:---:|:---:|
+| **10+** agents and RAG apps | **4** scan and symptom screeners | **40+** ML, DL and NLP | **6** live links | **15+** Power BI / EDA |
 
 ---
 
-### 📈 Crypto Price Predictor *(ARIMA · SARIMA · Prophet · LSTM · VADER)*
-> Full Streamlit app supporting 8 cryptocurrencies. Downloads live data from Yahoo Finance, runs volatility analysis, fetches real-time news, runs VADER sentiment scoring, and forecasts prices up to 2 years out using 4 ML/DL models with MAE/RMSE/MAPE evaluation.
-- **Stack:** Python · statsmodels · Prophet · TensorFlow · yfinance · NewsAPI · VADER
+## 🏆 Flagship Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 [Your Dr — AI Scan Screening](https://github.com/azrapatvi/dl-practice/tree/main/your_dr)
+One web app, **four AI screeners**: brain tumor MRI (glioma, meningioma, pituitary, none), ovarian ultrasound (5 types, VGG16), kidney CT (cyst, stone, tumor, normal) and a PCOS symptom check. Returns a plain-English report with **confidence and suggested next steps**.
+*Educational screening tool, not a medical diagnosis.*
+`TensorFlow` `VGG16` `CNN` `ANN` `FastAPI`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎙️ [AI Interviewer](https://github.com/azrapatvi/AI-Interviewer)
+End-to-end hiring platform: **face verification**, real-time AI interview questions, detection of multiple faces during the interview, answer evaluation and auto-generated reports.
+`FastAPI` `DeepFace` `Gemini API` `OpenCV` `MongoDB`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [GenAI Lab](https://github.com/azrapatvi/genai)
+A full LangChain and LangGraph portfolio with working apps:
+📧 **ApplyMate** writes job emails and sends only after you approve · 📄 **Nova AI** chats with any PDF with page numbers · 🎬 **Vidi AI** turns a YouTube link into summary, action items and a chat · 🗄️ **Chat with DB** · 🖥️ **Screen Reader AI**
+`LangChain` `LangGraph` `Groq` `FAISS` `Whisper` `MCP`
+
+</td>
+<td width="50%" valign="top">
+
+### 🍔 [DeliveryAI — Food Delivery Time Prediction](https://github.com/azrapatvi/Ml_practice/tree/main/food_delivery_prediction) · [Live Demo](https://ml-practice-9hbl.onrender.com/)
+Predicts delivery time from rider rating, traffic, weather, vehicle, city and order times. Built as a **production-style modular pipeline** (ingestion → cleaning → features → training → evaluation → prediction) and deployed.
+`XGBoost` `Scikit-learn` `FastAPI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🥔 [Real-Time Vegetable Detection](https://github.com/azrapatvi/dl-practice/tree/main/vegetable-detection-yolo)
+Custom-trained **YOLOv8** model that detects onion, potato and tomato in images and **live webcam video**, served through a Streamlit app.
+`YOLOv8` `OpenCV` `Streamlit`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌿 [PlantAI — Plant Disease Detection](https://github.com/azrapatvi/plantai-disease-detection)
+Upload a leaf photo and a CNN classifies it as **Healthy, Powdery or Rust**.
+`TensorFlow` `Keras` `FastAPI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 [Crypto Price Predictor](https://github.com/azrapatvi/crypto-price-predictor)
+Live data for **8 cryptocurrencies**, news sentiment scoring and forecasts up to **2 years** with 4 models (ARIMA, SARIMA, Prophet, LSTM).
+`Streamlit` `Prophet` `LSTM` `VADER`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 [Walmart Sales Prediction](https://github.com/azrapatvi/walmart-sales-prediction-ml)
+6 ML models plus time-series methods on 6,435 rows. **RandomForest R² = 0.9293**, with a live prediction web app.
+`Scikit-learn` `Prophet` `Flask`
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🛒 Walmart Sales Prediction *(RandomForest · Prophet · ARIMA · SARIMA)*
-> End-to-end forecasting project on 6,435 rows of real Walmart store data. Includes lag features, STL decomposition, stationarity testing (ADF), and cross-validation. Best ML model: RandomForest (R²: 0.9293). Best time series model: Prophet.
-- **Stack:** Python · Scikit-learn · Prophet · statsmodels · Pickle
+## ⚡ More AI Apps
+
+| App | What it does | Stack |
+|---|---|---|
+| 🧠 [Brain Tumor MRI Detection](https://github.com/azrapatvi/dl-practice/tree/main/brain-tumor-detection) | Upload an MRI and get a tumor prediction | CNN · FastAPI |
+| 🎗️ [Breast Cancer Prediction](https://github.com/azrapatvi/dl-practice/tree/main/breast-cancer-classification) | Compares Logistic Regression and an ANN | Keras · FastAPI |
+| 🎓 [AdmitAI](https://github.com/azrapatvi/admission-prediction) | Predicts graduate admission chance from GRE, TOEFL, SOP, LOR and CGPA | ANN · FastAPI |
+| 🌐 [LanguageAI](https://github.com/azrapatvi/language_detection) | Detects **21 languages** from any text | TF-IDF · FastAPI |
+| 💭 [Undertone](https://github.com/azrapatvi/emotion_detector) | Finds joy, sadness, anger, fear, love or surprise in a sentence | NLP · FastAPI |
+| 📄 [Resume Classifier](https://github.com/azrapatvi/resume_classifier) | Classifies resumes into job categories through an API | TF-IDF · FastAPI |
+| 🎬 [SentimentAI](https://github.com/azrapatvi/dl-practice/tree/main/sentiment_analysis) · [Live](https://sentiment-analysis-x86j.onrender.com) | Movie review sentiment with an RNN | Keras · FastAPI |
+| 🎥 [VidSnap AI Reel Generator](https://github.com/azrapatvi/Vid_Snap_AI_reel_generator) | Turns images and text into video reels with voice | Flask · gTTS · ffmpeg |
+| 🧑‍💼 [Face Recognition Attendance](https://github.com/azrapatvi/Face-Recognition-Based-Attendance-System) | Marks attendance from a live webcam feed | OpenCV · face_recognition |
+| 🎬 [Movie Recommender](https://github.com/azrapatvi/movie_recommendation_system) | Recommends 5 similar movies from 4,803 titles with live posters | NLP · Streamlit |
+| 🛡️ [Image Content Moderation](https://github.com/azrapatvi/image-classifier-pipeline) | Scrape → clean → preprocess → EfficientNetB0 (SAFE / HARD_NEG / VIOLENCE) | TensorFlow · OpenCV |
+| 🏠 [Airbnb Room Type Predictor](https://github.com/azrapatvi/Ml_practice/tree/main/nyc_roomtype_prediction) | Classifies NYC listings by room type | ML · FastAPI |
 
 ---
 
-### 🎬 TMDB Movie Revenue Predictor *(GradientBoosting · XGBoost · RandomizedSearchCV)*
-> Revenue prediction pipeline on 8,000 TMDB movies. Full feature engineering: genre OHE, language count, log-transform on target, ColumnTransformer, 7-model comparison, and hyperparameter tuning. Best: GradientBoostingRegressor (Test R²: 0.510, RMSE: ~$144M).
-- **Stack:** Python · Scikit-learn · XGBoost · Google Colab
+## 🌍 Live Products & Demos
 
----
-
-### 🎓 Student Exam Performance Indicator *(Flask · 10-Model Pipeline · Auto-Select)*
-> Production-grade ML Flask web app predicting Math Scores. Trains 10 models (Linear Regression, Ridge, Lasso, KNN, Decision Tree, Random Forest, AdaBoost, GradientBoosting, XGBoost, CatBoost) with RandomizedSearchCV and auto-selects the best by R².
-- **Stack:** Python · Flask · Scikit-learn · CatBoost · XGBoost
-
----
-
-### 📊 Customer Churn Prediction *(Random Forest · SMOTE · Streamlit)*
-> End-to-end churn prediction system with SMOTE for class imbalance, probability score output, and real-time predictions via Streamlit.
-- **Stack:** Python · Scikit-learn · imbalanced-learn · Streamlit
-
----
-
-### 🧠 Bank Churn ANN Classifier *(TensorFlow · Keras · GridSearchCV)*
-> Binary classification ANN on 10,000 bank records. Full pipeline: Label Encoding + OneHotEncoder + StandardScaler via ColumnTransformer, Dropout + L2 regularization, EarlyStopping, TensorBoard, and GridSearchCV over neurons, layers, and epochs via scikeras.
-- **Stack:** Python · TensorFlow · Keras · scikeras · Scikit-learn
-
----
-
-### 💎 Salary Oracle — ANN Regression *(TensorFlow · Streamlit)*
-> Predicts bank customer salary from 9 input attributes. 3-layer feedforward ANN (Dense 64→32→1), MAE loss, EarlyStopping. Served via a dark-themed Streamlit UI.
-- **Stack:** Python · TensorFlow · Keras · Streamlit
-
----
-
-### 🚗🏍️ VehicleAI — Multi-Vehicle Price Predictor *(Flask · 3 ML Models)*
-> Predicts resale prices for used cars and bikes, and market prices for new EVs. Features a Fair Price Checker and Budget Finder. Deployed with custom CSS frontend.
-- **Stack:** Python · Flask · Scikit-learn · Label Encoding · Mean Encoding
-
----
-
-### 🛡️ Text Harassment Classifier *(Logistic Regression · TF-IDF · Streamlit)*
-> Detects harassment in social media comments. Trained on 6,075 comments from 4 platforms. Tuned with GridSearchCV (5-fold, F1 scoring). Accuracy: 86.67%, F1: 88%.
-- **Stack:** Python · Scikit-learn · NLTK · Streamlit
-
----
-
-### 📚 Kindle Review Sentiment Analyser *(Naive Bayes · TF-IDF · SMOTE)*
-> NLP sentiment classifier for Amazon Kindle reviews. Full pipeline: URL/HTML removal, POS tagging, WordNet lemmatization, SMOTE for imbalance. ~90% accuracy. Deployed as Streamlit app.
-- **Stack:** Python · Scikit-learn · NLTK · Streamlit · joblib
-
----
-
-### 💬 SMS Spam Classifier using Word2Vec *(Word2Vec · Random Forest)*
-> Classifies SMS as Spam/Ham using Word2Vec embeddings (100-dim vectors). Compared LR, DT, RF, GB, XGBoost. Final model: tuned Random Forest via RandomizedSearchCV.
-- **Stack:** Python · Gensim · Scikit-learn · XGBoost
-
----
-
-### 🔥 Algerian Forest Fire Prediction *(Flask · ML Pipeline)*
-> FWI prediction from meteorological features with preprocessing, EDA, feature selection, model training, and deployment via Flask for real-time fire risk assessment.
-- **Stack:** Python · Flask · Scikit-learn
-
----
-
-### 💰 Sales Profit Prediction *(GradientBoosting · Streamlit)*
-> Regression project on 113,036 rows of global sales data. GradientBoostingRegressor tuned via GridSearchCV (R²: 0.9855). Final: MAE 16.45, RMSE 30.99, R² 0.9953.
-- **Stack:** Python · Scikit-learn · Streamlit
-
----
-
-### 📈 Stock Forecasting Dashboard *(ARIMA · LSTM · Prophet)*
-> Interactive dashboard forecasting future stock prices using three models, with historical trend analysis and visualizations.
-- **Stack:** Python · statsmodels · TensorFlow · Prophet
-
----
-
-### 🧳 Travel Package Purchase Prediction *(Classification · RandomizedSearchCV)*
-> ML pipeline predicting travel package purchase. Includes ColumnTransformer preprocessing, 5 classifier comparison, hyperparameter tuning, and probability-based predictions.
-- **Stack:** Python · Scikit-learn
-
----
-
-## 🤖 AI Content Moderation Pipeline
-
-### 🖼️ Image Content Moderation *(EfficientNetB0 · OpenCV · Streamlit)*
-> Deep learning pipeline for automated image content moderation (SAFE / HARD_NEG / VIOLENCE). Built end-to-end: Unsplash API scraping → Streamlit-based manual cleaning UI → OpenCV preprocessing (resize 224×224, brightness, sharpening) → EfficientNetB0 training with EarlyStopping.
-- **Stack:** Python · TensorFlow · Keras · OpenCV · Streamlit · Unsplash API
-
-### 🧠 Image Classifier with CNN *(Custom CNN · Data Augmentation · Colab)*
-> Auto-downloads 300 images/class from Unsplash, preprocesses with OpenCV, and trains a custom CNN (Conv2D → MaxPool × 3 → Dense → Dropout → Softmax) across 5 classes with data augmentation and EarlyStopping.
-- **Stack:** Python · TensorFlow · Keras · OpenCV · Colab
-
-### 🔍 EfficientNet Image Classification *(B0 / B1 / B7 · ImageNet)*
-> Demonstrates pretrained EfficientNet variants (B0, B1, B7) on ImageNet weights for image classification with top-3 prediction decoding. Built as a learning reference for CNN architecture understanding.
-- **Stack:** Python · TensorFlow · Keras · OpenCV
-
-### 🗂️ Image Scrape & Clean Pipeline *(Unsplash API · Streamlit · MD5 Dedup)*
-> Beginner-friendly modular pipeline to scrape, review, label, and process image datasets. Features MD5-based deduplication across sessions, Streamlit review UI, category labeling, and OpenCV preprocessing.
-- **Stack:** Python · Streamlit · OpenCV · Unsplash API
-
----
-
-## 🔮 NLP & Sequence Models
-
-### 🎭 Shakespeare Next Word Predictor *(LSTM · GRU · Streamlit)*
-> Next-word prediction web app trained on Shakespeare's Hamlet using LSTM and GRU. Tokenizes input, pads sequences, and samples from the model's probability distribution.
-- **Stack:** Python · TensorFlow · Keras · Streamlit
-
-### 🔮 LSTM-based Next-Word Prediction Model
-> Sequence modeling for language prediction using deep learning.
-- **Stack:** Python · TensorFlow · Keras
-
----
-
-## 🌐 Full-Stack Web Development
-
-### 🍰 Warmer Bakes & Cakes *(Flask · MongoDB · Cloudinary · Railway)*
-> Full-stack web app for a home bakery with online menu, WhatsApp ordering, photo gallery, and complete admin panel. **Live:** [warmerbakesncakes.com](https://www.warmerbakesncakes.com)
-- **Stack:** Python · Flask · MongoDB · Cloudinary · Railway
-
-### 🌡️ CoolAir Pro *(Flask · MySQL · PythonAnywhere)*
-> Dual-role login web app for AC technician services with online booking, tracking, and admin dashboard with stats. **Live:** [suhelshah.pythonanywhere.com](https://suhelshah.pythonanywhere.com)
-- **Stack:** Python · Flask · MySQL · PythonAnywhere
-
-### 🏭 Shah Industries *(HTML · CSS · Netlify)*
-> Multi-page informational website for a scrap business with responsive design, Google Maps, and contact form. **Live:** [ratnagiri-scrap.netlify.app](https://ratnagiri-scrap.netlify.app)
-
-### 💼 Azra Web Solutions *(Landing Page · Netlify)*
-> Professional landing page offering website development services for small businesses. **Live:** [azra-web-solutions.netlify.app](https://azra-web-solutions.netlify.app)
-
-### Other Web Projects
-- 📒 **Khata Plus App** — Tracks unpaid amounts · Flask
-- 💰 **Expense Tracker** · Flask
-- 🏥 **Hospital Management System**
-- ☕ **Café & Blizz System**
-- 🛒 **E-commerce Website**
-- ✅ **To-Do List App**
-
----
-
-## 📊 Data Analysis & Dashboards
-
-| Project | Tools |
+| Project | Link |
 |---|---|
-| Movies Dataset EDA (Apache Spark + Databricks) | PySpark · Spark SQL · Delta Table |
-| Credit Card Customer & Transaction Analysis | MySQL · Power BI |
-| Ecommerce Sales Analysis | Python · Power BI |
-| Walmart Sales Analysis | Python · SQL |
-| Hospital Management Dashboard | Power BI |
-| Uber Analytics Dashboard | Power BI |
-| UPI Transaction Dashboard | Power BI |
-| Amazon Sales Dashboard | Power BI |
-| Blinkit Sales Dashboard | Power BI · Python |
-| Pizza Sales Analysis | SQL · Python · Power BI |
-| Twitter Analytics | Python · Power BI |
-| WhatsApp Chat Analyzer | Streamlit |
-| Customer Churn Analysis (EDA) | Python |
-| Insurance Policy Analysis | Power BI |
-| Diwali Sales Data Analysis | Python |
-| Flight Price Analysis | Python |
-| Student Performance Analysis | Python |
-| Google Play Store Analysis | Python |
-| Red Wine Quality Analysis | Python |
-| Chat With Your Data (AI EDA Tool) | Python · LLM |
+| 🍰 **Warmer Bakes & Cakes** — online menu, WhatsApp ordering and admin panel | [warmerbakesncakes.com](https://www.warmerbakesncakes.com) |
+| 🌡️ **CoolAir Pro** — AC and appliance service booking with admin dashboard | [suhelshah.pythonanywhere.com](https://suhelshah.pythonanywhere.com) |
+| 🏭 **Shah Industries** — business website (also built with an AI chatbot) | [ratnagiri-scrap.netlify.app](https://ratnagiri-scrap.netlify.app) |
+| 💼 **Azra Web Solutions** — web development for small businesses | [azra-web-solutions.netlify.app](https://azra-web-solutions.netlify.app) |
+| 🍔 **DeliveryAI** — delivery time prediction | [ml-practice-9hbl.onrender.com](https://ml-practice-9hbl.onrender.com/) |
+| 🎬 **SentimentAI** — movie review sentiment | [sentiment-analysis-x86j.onrender.com](https://sentiment-analysis-x86j.onrender.com) |
+
+<sub>Demo apps on free hosting may take about a minute to wake up on the first visit.</sub>
 
 ---
 
-## 📈 Crypto & Finance
+## 📊 Data Analytics
 
-### 📊 Crypto Price Predictor *(Full App — see Featured above)*
-
-### 📈 Tesla Stock Forecasting *(Prophet · yfinance)*
-> Daily TSLA forecasting using Facebook Prophet on Yahoo Finance data. Includes data collection, preprocessing, model training, and actual vs. predicted visualization.
-
-### ⏱️ Time Series Forecasting Comparison *(ARIMA · SARIMA · Prophet)*
-> Comprehensive model comparison on monthly champagne sales. ADF test, differencing, ACF/PACF analysis, and forecast visualization across all three models.
-
----
-
-## 🕷️ Web Scraping
-
-| Project | Stack |
-|---|---|
-| Books to Scrape — Full Catalogue (1,000 books, 50 pages) | requests · BeautifulSoup · pandas |
-| Amazon Beauty Products Scraper | requests · BeautifulSoup · pandas |
-| AmbitionBox Company Scraper | requests · BeautifulSoup · pandas |
-| Unsplash Image Search Notebook | requests · IPython |
+📁 [**Data-Analysis-Projects**](https://github.com/azrapatvi/Data-Analysis-Projects) — Power BI dashboards and EDA notebooks (Uber, UPI, Amazon, Blinkit, Hospital, Insurance and more)
+📁 [**Movies EDA on Databricks**](https://github.com/azrapatvi/movies-data-analysis) — PySpark and Spark SQL
+📁 [**Customer Support Ticket Analysis**](https://github.com/azrapatvi/customer-support-ticket-analysis) — EDA plus satisfaction prediction
 
 ---
 
 ## 🛠️ Tech Stack
 
-**AI & ML**
-`Scikit-learn` `TensorFlow` `Keras` `XGBoost` `CatBoost` `DeepFace` `Gemini API` `GPT API` `OpenCV`
-
-**Data & Analytics**
-`Power BI` `Tableau` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Excel`
-
-**NLP**
-`NLTK` `Gensim` `Word2Vec` `TF-IDF` `VADER` `spaCy`
-
-**Deep Learning**
-`LSTM` `GRU` `ANN` `CNN` `EfficientNet` `TensorBoard`
-
-**Big Data**
-`Apache Spark` `PySpark` `Spark SQL` `Databricks`
-
-**Languages**
-`Python` `SQL` `JavaScript` `HTML5` `CSS3` `C` `C++` `Java` `R`
-
-**Frameworks**
-`FastAPI` `Flask` `Streamlit` `Bootstrap`
-
-**Databases**
-`MongoDB` `MySQL` `SQLite`
-
-**Cloud & Tools**
-`AWS` `Azure` `Snowflake` `GitHub` `Jupyter` `Google Colab` `VS Code`
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azrapatvi&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=azrapatvi&theme=tokyonight" width="48%" />
+  <img src="https://skillicons.dev/icons?i=py,flask,fastapi,tensorflow,sklearn,opencv,pandas,numpy,mongodb,mysql,sqlite,js,html,css,java,c,cpp,r,powerbi,tableau,aws,azure,github,vscode&perline=12" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azrapatvi&layout=compact&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square"/>
 </p>
 
 ---
 
-## 📫 Connect with Me
+## 📈 GitHub Activity
 
-<p align="left">
-  <a href="mailto:azrapatvi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/azra-patvi-5ba33a31b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/azrapatvi"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-  <a href="https://azra-web-solutions.netlify.app/"><img src="https://img.shields.io/badge/Web%20Solutions-000000?style=flat&logo=netlify&logoColor=white"/></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=azrapatvi&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=azrapatvi&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azrapatvi&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=azrapatvi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=3" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azrapatvi&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+I'm open to **internships and AI / ML / GenAI roles**. If you like what you see, say hello!
+
+<p align="center">
+  <a href="mailto:azrapatvi@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/azra-patvi-5ba33a31b/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
 </p>
