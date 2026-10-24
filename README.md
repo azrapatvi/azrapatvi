@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="AI and Data Science - Generative AI, Healthcare AI, Computer Vision, Full-Stack" width="100%"/>
+<h1>Hi, I'm Azra Patvi 👋</h1>
+
+<h3>AI & Data Science Engineer · GenAI · Healthcare AI · Computer Vision · Full-Stack</h3>
 
 <br/>
 
@@ -296,6 +298,5 @@ I'm open to **internships and AI / ML / GenAI roles**. If you like what you see,
 <a href="mailto:azrapatvi@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/azra-patvi-5ba33a31b/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-<img src="assets/footer.svg" alt="" width="100%"/>
 
 </div>
