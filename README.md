@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Azra%20Patvi&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=AI%20%26%20Data%20Science%20%7C%20GenAI%20%C2%B7%20Healthcare%20AI%20%C2%B7%20Computer%20Vision%20%C2%B7%20Full-Stack&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0E75B6&center=true&vCenter=true&width=700&height=45&lines=Building+LLM+agents+%26+RAG+apps+%F0%9F%A4%96;Applying+AI+to+healthcare+%F0%9F%A9%BA;Training+YOLO+%26+CNN+vision+models+%F0%9F%91%81%EF%B8%8F;Shipping+real+products+for+real+clients+%F0%9F%9A%80" alt="Typing animation"/></a>
-
 <br/>
 
 <a href="mailto:azrapatvi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -34,9 +32,9 @@
 
 <div align="center">
 
-| 🤖 **10+** | 🩺 **4** | 🧪 **40+** | 🌍 **6** | 📊 **15+** |
-|:---:|:---:|:---:|:---:|:---:|
-| Agents & RAG apps | Scan & symptom screeners | ML, DL & NLP projects | Live links | Power BI / EDA dashboards |
+| 🤖 **10+** | 🩺 **4** | 🧪 **40+** | 📊 **15+** |
+|:---:|:---:|:---:|:---:|
+| Agents & RAG apps | Scan & symptom screeners | ML, DL & NLP projects | Power BI / EDA dashboards |
 
 </div>
 
