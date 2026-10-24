@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Azra Patvi 👋</h1>
 
-<h3>AI & Data Science Engineer · GenAI · Healthcare AI · Computer Vision · Full-Stack</h3>
+<h3>AI Engineer · Data Scientist · Machine Learning Engineer · Data Analyst · Full-Stack Developer</h3>
 
 <br/>
 
