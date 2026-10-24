@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Azra%20Patvi&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=AI%20%26%20Data%20Science%20%7C%20GenAI%20%C2%B7%20Healthcare%20AI%20%C2%B7%20Computer%20Vision%20%C2%B7%20Full-Stack&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="assets/banner.svg" alt="AI and Data Science - Generative AI, Healthcare AI, Computer Vision, Full-Stack" width="100%"/>
 
 <br/>
 
 <a href="mailto:azrapatvi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/azra-patvi-5ba33a31b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://azra-web-solutions.netlify.app/"><img src="https://img.shields.io/badge/Web%20Solutions-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=azrapatvi&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
 </div>
 
 <br/>
@@ -298,6 +296,6 @@ I'm open to **internships and AI / ML / GenAI roles**. If you like what you see,
 <a href="mailto:azrapatvi@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/azra-patvi-5ba33a31b/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="assets/footer.svg" alt="" width="100%"/>
 
 </div>
