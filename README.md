@@ -1,13 +1,5 @@
-<!-- Animated header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=AI%20%26%20Data%20Science&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Generative%20AI%20%C2%B7%20Healthcare%20AI%20%C2%B7%20Computer%20Vision%20%C2%B7%20Full-Stack&descAlignY=60&descSize=17" width="100%"/>
-</p>
-
-<!-- Typing animation -->
-<p align="center">
-  <a href="https://github.com/azrapatvi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=760&lines=I+build+AI+apps+that+ship+%F0%9F%9A%80;LLM+agents+%C2%B7+RAG+%C2%B7+Computer+Vision+%C2%B7+ML;AI+that+reads+scans%2C+videos%2C+PDFs+and+faces;Open+to+internships+and+AI%2FML+roles" alt="Typing animation" />
-  </a>
+  <img src="assets/banner.svg" alt="AI and Data Science - Generative AI, Healthcare AI, Computer Vision, Full-Stack" width="100%"/>
 </p>
 
 <p align="center">
@@ -30,10 +22,23 @@
 
 ---
 
+## 🔎 What I Work On
+
+**Generative AI:** LLM agents, RAG chatbots, LangChain, LangGraph, human-in-the-loop AI, MCP, Groq, Gemini
+**Healthcare AI:** brain tumor MRI detection, kidney CT and ovarian ultrasound screening, PCOS prediction
+**Computer Vision:** YOLOv8 object detection, CNN image classification, face recognition, EfficientNet
+**Machine Learning & Forecasting:** XGBoost, Random Forest, time-series (ARIMA, Prophet, LSTM), NLP classifiers
+**Full-Stack:** FastAPI, Flask, Streamlit, MongoDB, MySQL, Power BI dashboards
+
+---
+
 ## ⚡ Highlights
 
-| 🤖 GenAI Apps | 🩺 Medical AI Models | 🧪 ML / DL Projects | 🌍 Live Sites & Demos | 📊 Dashboards |
-|:---:|:---:|:---:|:---:|:---:|
+<p align="center">
+  <img src="assets/highlights.svg" alt="10+ GenAI apps, 4 medical AI screeners, 40+ ML DL NLP projects, 6 live links, 15+ dashboards" width="100%"/>
+</p>
+
+---:|:---:|:---:|:---:|:---:|
 | **10+** agents and RAG apps | **4** scan and symptom screeners | **40+** ML, DL and NLP | **6** live links | **15+** Power BI / EDA |
 
 ---
@@ -178,17 +183,12 @@ Live data for **8 cryptocurrencies**, news sentiment scoring and forecasts up to
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azrapatvi&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=azrapatvi&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=azrapatvi&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=azrapatvi&theme=tokyonight&hide_border=true" width="48%" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azrapatvi&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=azrapatvi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=3" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azrapatvi&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azrapatvi&layout=compact&theme=tokyonight&hide_border=true" width="60%" alt="Top languages" />
 </p>
 
 ---
@@ -203,5 +203,5 @@ I'm open to **internships and AI / ML / GenAI roles**. If you like what you see,
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
+  <img src="assets/footer.svg" alt="" width="100%"/>
 </p>
