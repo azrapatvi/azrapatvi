@@ -1,47 +1,79 @@
-<p align="center">
-  <img src="assets/banner.svg" alt="AI and Data Science - Generative AI, Healthcare AI, Computer Vision, Full-Stack" width="100%"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:azrapatvi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/azra-patvi-5ba33a31b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://azra-web-solutions.netlify.app/"><img src="https://img.shields.io/badge/Web%20Solutions-000000?style=for-the-badge&logo=netlify&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=azrapatvi&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Azra%20Patvi&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=AI%20%26%20Data%20Science%20%7C%20GenAI%20%C2%B7%20Healthcare%20AI%20%C2%B7%20Computer%20Vision%20%C2%B7%20Full-Stack&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
----
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0E75B6&center=true&vCenter=true&width=700&height=45&lines=Building+LLM+agents+%26+RAG+apps+%F0%9F%A4%96;Applying+AI+to+healthcare+%F0%9F%A9%BA;Training+YOLO+%26+CNN+vision+models+%F0%9F%91%81%EF%B8%8F;Shipping+real+products+for+real+clients+%F0%9F%9A%80" alt="Typing animation"/></a>
+
+<br/>
+
+<a href="mailto:azrapatvi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/azra-patvi-5ba33a31b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://azra-web-solutions.netlify.app/"><img src="https://img.shields.io/badge/Web%20Solutions-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=azrapatvi&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+<br/>
 
 ## 👩‍💻 About Me
 
-- 🎓 **B.Tech in AI & Data Science** at Loknete Shamrao Peje Government College of Engineering
-- 🧠 Building with **LLM agents, RAG, LangChain, LangGraph** and deep learning
-- 🩺 Applying AI to **healthcare** (scan screening), **vision** (YOLO, CNNs) and **business** (forecasting, prediction)
-- 🌐 Shipping **real, deployed products** for real clients (Flask, FastAPI, Streamlit)
-- 💼 Internship experience in **Frontend, Data Analysis and AI applications**
-- 📦 **100+ public repositories** · 📍 Maharashtra, India
+> *"Turning data into products people can actually use."*
 
----
+| | |
+|---|---|
+| 🎓 **Education** | B.Tech in AI & Data Science, Loknete Shamrao Peje Government College of Engineering |
+| 🧠 **Building with** | LLM agents, RAG, LangChain, LangGraph and deep learning |
+| 🩺 **Applying AI to** | Healthcare (scan screening), vision (YOLO, CNNs) and business (forecasting, prediction) |
+| 🌐 **Shipping** | Real, deployed products for real clients (Flask, FastAPI, Streamlit) |
+| 💼 **Experience** | Internships in Frontend, Data Analysis and AI applications |
+| 📦 **GitHub** | 100+ public repositories · 📍 Maharashtra, India |
 
-## 🔎 What I Work On
-
-**Generative AI:** LLM agents, RAG chatbots, LangChain, LangGraph, human-in-the-loop AI, MCP, Groq, Gemini
-**Healthcare AI:** brain tumor MRI detection, kidney CT and ovarian ultrasound screening, PCOS prediction
-**Computer Vision:** YOLOv8 object detection, CNN image classification, face recognition, EfficientNet
-**Machine Learning & Forecasting:** XGBoost, Random Forest, time-series (ARIMA, Prophet, LSTM), NLP classifiers
-**Full-Stack:** FastAPI, Flask, Streamlit, MongoDB, MySQL, Power BI dashboards
-
----
+<br/>
 
 ## ⚡ Highlights
 
-<p align="center">
-  <img src="assets/highlights.svg" alt="10+ GenAI apps, 4 medical AI screeners, 40+ ML DL NLP projects, 6 live links, 15+ dashboards" width="100%"/>
-</p>
+<div align="center">
 
----:|:---:|:---:|:---:|:---:|
-| **10+** agents and RAG apps | **4** scan and symptom screeners | **40+** ML, DL and NLP | **6** live links | **15+** Power BI / EDA |
+| 🤖 **10+** | 🩺 **4** | 🧪 **40+** | 🌍 **6** | 📊 **15+** |
+|:---:|:---:|:---:|:---:|:---:|
+| Agents & RAG apps | Scan & symptom screeners | ML, DL & NLP projects | Live links | Power BI / EDA dashboards |
 
----
+</div>
+
+<br/>
+
+## 🔎 What I Work On
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🧠 Generative AI**
+LLM agents · RAG chatbots · LangChain · LangGraph · Human-in-the-loop AI · MCP · Groq · Gemini
+
+**🩺 Healthcare AI**
+Brain tumor MRI detection · Kidney CT & ovarian ultrasound screening · PCOS prediction
+
+**👁️ Computer Vision**
+YOLOv8 object detection · CNN image classification · Face recognition · EfficientNet
+
+</td>
+<td width="50%" valign="top">
+
+**📈 ML & Forecasting**
+XGBoost · Random Forest · Time-series (ARIMA, Prophet, LSTM) · NLP classifiers
+
+**🌐 Full-Stack**
+FastAPI · Flask · Streamlit · MongoDB · MySQL
+
+**📊 Analytics**
+Power BI dashboards · SQL · PySpark · EDA
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 🏆 Flagship Projects
 
@@ -51,15 +83,26 @@
 
 ### 🩺 [Your Dr — AI Scan Screening](https://github.com/azrapatvi/dl-practice/tree/main/your_dr)
 One web app, **four AI screeners**: brain tumor MRI (glioma, meningioma, pituitary, none), ovarian ultrasound (5 types, VGG16), kidney CT (cyst, stone, tumor, normal) and a PCOS symptom check. Returns a plain-English report with **confidence and suggested next steps**.
+
 *Educational screening tool, not a medical diagnosis.*
-`TensorFlow` `VGG16` `CNN` `ANN` `FastAPI`
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![VGG16](https://img.shields.io/badge/VGG16-6C5CE7?style=flat-square)
+![CNN](https://img.shields.io/badge/CNN-0E75B6?style=flat-square)
+![ANN](https://img.shields.io/badge/ANN-D00000?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎙️ [AI Interviewer](https://github.com/azrapatvi/AI-Interviewer)
 End-to-end hiring platform: **face verification**, real-time AI interview questions, detection of multiple faces during the interview, answer evaluation and auto-generated reports.
-`FastAPI` `DeepFace` `Gemini API` `OpenCV` `MongoDB`
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![DeepFace](https://img.shields.io/badge/DeepFace-6C5CE7?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 </td>
 </tr>
@@ -68,15 +111,30 @@ End-to-end hiring platform: **face verification**, real-time AI interview questi
 
 ### 🤖 [GenAI Lab](https://github.com/azrapatvi/genai)
 A full LangChain and LangGraph portfolio with working apps:
-📧 **ApplyMate** writes job emails and sends only after you approve · 📄 **Nova AI** chats with any PDF with page numbers · 🎬 **Vidi AI** turns a YouTube link into summary, action items and a chat · 🗄️ **Chat with DB** · 🖥️ **Screen Reader AI**
-`LangChain` `LangGraph` `Groq` `FAISS` `Whisper` `MCP`
+
+📧 **ApplyMate** writes job emails and sends only after you approve
+📄 **Nova AI** chats with any PDF with page numbers
+🎬 **Vidi AI** turns a YouTube link into summary, action items and a chat
+🗄️ **Chat with DB** · 🖥️ **Screen Reader AI**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-0E75B6?style=flat-square)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-### 🍔 [DeliveryAI — Food Delivery Time Prediction](https://github.com/azrapatvi/Ml_practice/tree/main/food_delivery_prediction) · [Live Demo](https://ml-practice-9hbl.onrender.com/)
+### 🍔 [DeliveryAI — Delivery Time Prediction](https://github.com/azrapatvi/Ml_practice/tree/main/food_delivery_prediction)
+[**▶ Live Demo**](https://ml-practice-9hbl.onrender.com/)
+
 Predicts delivery time from rider rating, traffic, weather, vehicle, city and order times. Built as a **production-style modular pipeline** (ingestion → cleaning → features → training → evaluation → prediction) and deployed.
-`XGBoost` `Scikit-learn` `FastAPI`
+
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 </td>
 </tr>
@@ -85,14 +143,20 @@ Predicts delivery time from rider rating, traffic, weather, vehicle, city and or
 
 ### 🥔 [Real-Time Vegetable Detection](https://github.com/azrapatvi/dl-practice/tree/main/vegetable-detection-yolo)
 Custom-trained **YOLOv8** model that detects onion, potato and tomato in images and **live webcam video**, served through a Streamlit app.
-`YOLOv8` `OpenCV` `Streamlit`
+
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00B8D4?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌿 [PlantAI — Plant Disease Detection](https://github.com/azrapatvi/plantai-disease-detection)
 Upload a leaf photo and a CNN classifies it as **Healthy, Powdery or Rust**.
-`TensorFlow` `Keras` `FastAPI`
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 </td>
 </tr>
@@ -101,22 +165,33 @@ Upload a leaf photo and a CNN classifies it as **Healthy, Powdery or Rust**.
 
 ### 📈 [Crypto Price Predictor](https://github.com/azrapatvi/crypto-price-predictor)
 Live data for **8 cryptocurrencies**, news sentiment scoring and forecasts up to **2 years** with 4 models (ARIMA, SARIMA, Prophet, LSTM).
-`Streamlit` `Prophet` `LSTM` `VADER`
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Prophet](https://img.shields.io/badge/Prophet-0E75B6?style=flat-square)
+![LSTM](https://img.shields.io/badge/LSTM-6C5CE7?style=flat-square)
+![VADER](https://img.shields.io/badge/VADER-2C3E50?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛒 [Walmart Sales Prediction](https://github.com/azrapatvi/walmart-sales-prediction-ml)
 6 ML models plus time-series methods on 6,435 rows. **RandomForest R² = 0.9293**, with a live prediction web app.
-`Scikit-learn` `Prophet` `Flask`
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Prophet](https://img.shields.io/badge/Prophet-0E75B6?style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## ⚡ More AI Apps
+## 🧩 More AI Apps
+
+<details open>
+<summary><b>Click to collapse / expand the full list</b></summary>
+<br/>
 
 | App | What it does | Stack |
 |---|---|---|
@@ -129,79 +204,102 @@ Live data for **8 cryptocurrencies**, news sentiment scoring and forecasts up to
 | 🎬 [SentimentAI](https://github.com/azrapatvi/dl-practice/tree/main/sentiment_analysis) · [Live](https://sentiment-analysis-x86j.onrender.com) | Movie review sentiment with an RNN | Keras · FastAPI |
 | 🎥 [VidSnap AI Reel Generator](https://github.com/azrapatvi/Vid_Snap_AI_reel_generator) | Turns images and text into video reels with voice | Flask · gTTS · ffmpeg |
 | 🧑‍💼 [Face Recognition Attendance](https://github.com/azrapatvi/Face-Recognition-Based-Attendance-System) | Marks attendance from a live webcam feed | OpenCV · face_recognition |
-| 🎬 [Movie Recommender](https://github.com/azrapatvi/movie_recommendation_system) | Recommends 5 similar movies from 4,803 titles with live posters | NLP · Streamlit |
+| 🍿 [Movie Recommender](https://github.com/azrapatvi/movie_recommendation_system) | Recommends 5 similar movies from 4,803 titles with live posters | NLP · Streamlit |
 | 🛡️ [Image Content Moderation](https://github.com/azrapatvi/image-classifier-pipeline) | Scrape → clean → preprocess → EfficientNetB0 (SAFE / HARD_NEG / VIOLENCE) | TensorFlow · OpenCV |
 | 🏠 [Airbnb Room Type Predictor](https://github.com/azrapatvi/Ml_practice/tree/main/nyc_roomtype_prediction) | Classifies NYC listings by room type | ML · FastAPI |
 
----
+</details>
+
+<br/>
 
 ## 🌍 Live Products & Demos
 
-| Project | Link |
-|---|---|
-| 🍰 **Warmer Bakes & Cakes** — online menu, WhatsApp ordering and admin panel | [warmerbakesncakes.com](https://www.warmerbakesncakes.com) |
-| 🌡️ **CoolAir Pro** — AC and appliance service booking with admin dashboard | [suhelshah.pythonanywhere.com](https://suhelshah.pythonanywhere.com) |
-| 🏭 **Shah Industries** — business website (also built with an AI chatbot) | [ratnagiri-scrap.netlify.app](https://ratnagiri-scrap.netlify.app) |
-| 💼 **Azra Web Solutions** — web development for small businesses | [azra-web-solutions.netlify.app](https://azra-web-solutions.netlify.app) |
-| 🍔 **DeliveryAI** — delivery time prediction | [ml-practice-9hbl.onrender.com](https://ml-practice-9hbl.onrender.com/) |
-| 🎬 **SentimentAI** — movie review sentiment | [sentiment-analysis-x86j.onrender.com](https://sentiment-analysis-x86j.onrender.com) |
+| Project | What it is | Link |
+|---|---|---|
+| 🍰 **Warmer Bakes & Cakes** | Online menu, WhatsApp ordering and admin panel | [warmerbakesncakes.com](https://www.warmerbakesncakes.com) |
+| 🌡️ **CoolAir Pro** | AC and appliance service booking with admin dashboard | [suhelshah.pythonanywhere.com](https://suhelshah.pythonanywhere.com) |
+| 🏭 **Shah Industries** | Business website (also built with an AI chatbot) | [ratnagiri-scrap.netlify.app](https://ratnagiri-scrap.netlify.app) |
+| 💼 **Azra Web Solutions** | Web development for small businesses | [azra-web-solutions.netlify.app](https://azra-web-solutions.netlify.app) |
+| 🍔 **DeliveryAI** | Delivery time prediction | [ml-practice-9hbl.onrender.com](https://ml-practice-9hbl.onrender.com/) |
+| 🎬 **SentimentAI** | Movie review sentiment | [sentiment-analysis-x86j.onrender.com](https://sentiment-analysis-x86j.onrender.com) |
 
-<sub>Demo apps on free hosting may take about a minute to wake up on the first visit.</sub>
+<sub>⏳ Demo apps on free hosting may take about a minute to wake up on the first visit.</sub>
 
----
+<br/>
 
 ## 📊 Data Analytics
 
-📁 [**Data-Analysis-Projects**](https://github.com/azrapatvi/Data-Analysis-Projects) — Power BI dashboards and EDA notebooks (Uber, UPI, Amazon, Blinkit, Hospital, Insurance and more)
-📁 [**Movies EDA on Databricks**](https://github.com/azrapatvi/movies-data-analysis) — PySpark and Spark SQL
-📁 [**Customer Support Ticket Analysis**](https://github.com/azrapatvi/customer-support-ticket-analysis) — EDA plus satisfaction prediction
+<table>
+<tr>
+<td width="33%" valign="top">
 
----
+### 📁 [Data-Analysis-Projects](https://github.com/azrapatvi/Data-Analysis-Projects)
+Power BI dashboards and EDA notebooks: Uber, UPI, Amazon, Blinkit, Hospital, Insurance and more.
+
+</td>
+<td width="33%" valign="top">
+
+### ⚡ [Movies EDA on Databricks](https://github.com/azrapatvi/movies-data-analysis)
+PySpark and Spark SQL analysis.
+
+</td>
+<td width="33%" valign="top">
+
+### 🎫 [Customer Support Ticket Analysis](https://github.com/azrapatvi/customer-support-ticket-analysis)
+EDA plus satisfaction prediction.
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,flask,fastapi,tensorflow,sklearn,opencv,pandas,numpy,mongodb,mysql,sqlite,js,html,css,java,c,cpp,r,powerbi,tableau,aws,azure,github,vscode&perline=12" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square"/>
-</p>
+<img src="https://skillicons.dev/icons?i=py,flask,fastapi,tensorflow,sklearn,opencv,pandas,numpy,mongodb,mysql,sqlite,js,html,css,java,c,cpp,r,powerbi,tableau,aws,azure,github,vscode&perline=12" />
 
----
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLOv8-00B8D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square"/>
+
+</div>
+
+<br/>
 
 ## 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azrapatvi&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com/?user=azrapatvi&theme=tokyonight&hide_border=true" width="48%" alt="GitHub streak" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azrapatvi&layout=compact&theme=tokyonight&hide_border=true" width="60%" alt="Top languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=azrapatvi&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub stats"/>
+<img src="https://streak-stats.demolab.com/?user=azrapatvi&theme=tokyonight&hide_border=true" width="48%" alt="GitHub streak"/>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azrapatvi&layout=compact&theme=tokyonight&hide_border=true" width="60%" alt="Top languages"/>
+
+</div>
+
+<br/>
 
 ## 📫 Let's Connect
 
-I'm open to **internships and AI / ML / GenAI roles**. If you like what you see, say hello!
+<div align="center">
 
-<p align="center">
-  <a href="mailto:azrapatvi@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/azra-patvi-5ba33a31b/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+I'm open to **internships and AI / ML / GenAI roles**. If you like what you see, say hello! 👋
 
-<p align="center">
-  <img src="assets/footer.svg" alt="" width="100%"/>
-</p>
+<a href="mailto:azrapatvi@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/azra-patvi-5ba33a31b/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+</div>
